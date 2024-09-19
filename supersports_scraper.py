@@ -9,10 +9,10 @@ def scrapeSupersportsProducts(url, product_list):
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15'
     }
 
+    pageIndex = 1  # Initialize page index outside the loop
     while True:
-        pageIndex = 1;
         try:
-            print(f"Requesting URL: {url}")  # Debug print
+            print(f"Requesting URL: {url} page {pageIndex}")  # Debug print to track requests
             response = requests.get(url + '&page=' + str(pageIndex), headers=headers)
             response.raise_for_status()
 
@@ -20,7 +20,7 @@ def scrapeSupersportsProducts(url, product_list):
             print("Page content:", soup.prettify()[:1000])  # Print the first 1000 characters for inspection
 
             products = soup.find_all('div', class_='boost-pfs-filter-product-item-inner')  # Check if this class is correct
-            print(f"Found {len(products)} products")  # Debug print
+            print(f"Found {len(products)} products on page {pageIndex}")  # Debug print
 
             if not products:
                 print("No products found on this page.")
@@ -39,9 +39,6 @@ def scrapeSupersportsProducts(url, product_list):
                 if product_link:
                     product_info['product_url'] = product_link['href']
                 
-                # sku_tag = product.find('div', class_='sku')
-                # if sku_tag:
-                #     product_info['sku'] = sku_tag.text.strip()
                 price_new_tag = product.find('p', class_='boost-pfs-filter-product-item-price').find('span')
                 price_old_tag = product.find('p', class_='boost-pfs-filter-product-item-price').find('s')
                 if price_new_tag:
@@ -85,7 +82,7 @@ def scrapeSupersportsProducts(url, product_list):
                 print(f"Product added: {product_info}")  # Debug print
                 time.sleep(2)
 
-            pageIndex += 1
+            pageIndex += 1  # Increment page index to move to the next page
 
         except requests.RequestException as e:
             print(f"Failed to retrieve page: {e}")
