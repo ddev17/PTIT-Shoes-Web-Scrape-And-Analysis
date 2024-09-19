@@ -1,21 +1,8 @@
-import os
 import requests
 from bs4 import BeautifulSoup
 import time
 import json
-import base64
-
-# Function to convert image URL to Base64
-def image_to_base64(image_url):
-    try:
-        response = requests.get(image_url)
-        if response.status_code == 200:
-            return base64.b64encode(response.content).decode('utf-8')
-    except Exception as e:
-        print(f"Error fetching image {image_url}: {e}")
-    return None  # Return None if there's an error or the image cannot be fetched
-
-# ////////////////////////////////////////////////////
+import os
 
 # Function to scrape product details from a given URL
 def scrapeNewBalanceProducts(url, product_list):
@@ -39,12 +26,7 @@ def scrapeNewBalanceProducts(url, product_list):
                 product_info = {}
                 image_tag = product.find('img')
                 if image_tag:
-                    # Handle image fetch with error handling
-                    try:
-                        product_info['image_url'] = image_tag['src']
-                    except Exception as e:
-                        print(f"Error fetching image {image_tag['src']}: {e}")
-                        product_info['image_url'] = None  # Skip the image if fetch fails
+                    product_info['image_url'] = image_tag['src']
                         
                 name_tag = product.find('h4')
                 if name_tag:
@@ -52,7 +34,8 @@ def scrapeNewBalanceProducts(url, product_list):
                 product_link = product.find('a', href=True)
                 if product_link:
                     product_info['product_url'] = product_link['href']
-                                # SKU and pricing
+                
+                # SKU and pricing
                 sku_tag = product.find('div', class_='sku')
                 if sku_tag:
                     product_info['sku'] = sku_tag.text.strip()
@@ -70,6 +53,22 @@ def scrapeNewBalanceProducts(url, product_list):
                 product_detail_response = requests.get(product_info['product_url'], headers=headers)
                 if product_detail_response.status_code == 200:
                     product_detail_soup = BeautifulSoup(product_detail_response.content, 'html.parser')
+
+                    # Scrape the sizes available
+                    size_select = product_detail_soup.find('select', id=lambda x: x and 'option' in x)
+                    if size_select:
+                        sizes = []
+                        for option in size_select.find_all('option'):
+                            size_text = option.text.strip()
+                            if size_text and 'VUI LÒNG CHỌN SIZE' not in size_text:
+                                # Replace non-breaking spaces and other special characters with standard spaces
+                                size_text = size_text.replace('\u00A0', ' ')  # Replace non-breaking space
+                                size_text = size_text.replace('\u200B', '')  # Remove zero-width space
+                                sizes.append(size_text)
+                        product_info['sizes'] = sizes
+
+
+                    # Scrape additional attributes
                     attribute_groups = product_detail_soup.find_all('div', class_='attribute-group')
                     for group in attribute_groups:
                         h3_tag = group.find('h3')
@@ -137,7 +136,7 @@ def scrapAllRoutes():
     
     # Load existing data if the file exists
     if os.path.exists('drake.json'):
-        with open('new_balance_products.json', 'r', encoding='utf-8') as json_file:
+        with open('drake.json', 'r', encoding='utf-8') as json_file:
             product_list = json.load(json_file)
 
     # Loop through each URL and scrape products
@@ -145,10 +144,10 @@ def scrapAllRoutes():
         scrapeNewBalanceProducts(url, product_list)
         
     # Save the combined data to a JSON file with utf-8 encoding
-    with open('new_balance_products.json', 'w', encoding='utf-8') as json_file:
+    with open('drake.json', 'w', encoding='utf-8') as json_file:
         json.dump(product_list, json_file, indent=4, ensure_ascii=False)
     
-    print("Scraping completed. Data saved to 'new_balance_products.json'.")
+    print("Scraping completed. Data saved to 'drake.json'.")
 
 # Run the scraping function
 scrapAllRoutes()
