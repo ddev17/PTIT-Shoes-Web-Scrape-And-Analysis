@@ -2,10 +2,10 @@ import re
 import json
 
 # Path to the original scraped data file
-scrap_file = 'drake.json'
+scrap_file = 'data/drake.json'
 
 # Path to the new cleaned file
-cleaned_file = 'drake_clean.json'
+cleaned_file = 'data_clean/drake_clean.json'
 
 # Function to normalize price
 def normalize_price(price):
@@ -87,7 +87,9 @@ for product in data:
     if 'sale_price' in product:
         product['sale_price'] = normalize_price(product['sale_price'])
     if 'drake_price' in product:
-        product['drake_price'] = normalize_price(product['drake_price'])
+        normalized_price = normalize_price(product['drake_price'])  # Normalize drake_price
+        product['price'] = normalized_price
+        product.pop('drake_price', None)
     
     # Normalize sizes if available
     if 'sizes' in product:
