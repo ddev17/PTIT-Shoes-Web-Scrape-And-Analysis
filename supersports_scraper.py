@@ -10,15 +10,16 @@ def scrapeSupersportsProducts(url, product_list):
     }
 
     while True:
+        pageIndex = 1;
         try:
             print(f"Requesting URL: {url}")  # Debug print
-            response = requests.get(url, headers=headers)
+            response = requests.get(url + '&page=' + str(pageIndex), headers=headers)
             response.raise_for_status()
 
             soup = BeautifulSoup(response.content, 'html.parser')
             print("Page content:", soup.prettify()[:1000])  # Print the first 1000 characters for inspection
 
-            products = soup.find_all('div', class_='product-card')  # Check if this class is correct
+            products = soup.find_all('div', class_='boost-pfs-filter-product-item-inner')  # Check if this class is correct
             print(f"Found {len(products)} products")  # Debug print
 
             if not products:
@@ -27,66 +28,56 @@ def scrapeSupersportsProducts(url, product_list):
             
             for product in products:
                 product_info = {}
-                image_tag = product.find('img')
+                image_tag = product.select('img[class^="boost-pfs-filter-product-item-main"]')
                 if image_tag:
-                    product_info['image_url'] = image_tag.get('data-src', '')
+                    product_info['image_url'] = image_tag[0].get('data-img-flip-src', '')
                 
-                name_tag = product.find('h3')
+                name_tag = product.select('[class="boost-pfs-filter-product-item-title"]')
                 if name_tag:
-                    product_info['name'] = name_tag.text.strip()
-                product_link = product.find('a', href=True)
+                    product_info['name'] = name_tag[0].text.strip()
+                product_link = product.find('a', class_='boost-pfs-filter-product-item-title', href=True)
                 if product_link:
                     product_info['product_url'] = product_link['href']
                 
-                sku_tag = product.find('div', class_='sku')
-                if sku_tag:
-                    product_info['sku'] = sku_tag.text.strip()
-                price_new_tag = product.find('span', class_='price-new')
-                price_old_tag = product.find('span', class_='price-old')
+                # sku_tag = product.find('div', class_='sku')
+                # if sku_tag:
+                #     product_info['sku'] = sku_tag.text.strip()
+                price_new_tag = product.find('p', class_='boost-pfs-filter-product-item-price').find('span')
+                price_old_tag = product.find('p', class_='boost-pfs-filter-product-item-price').find('s')
                 if price_new_tag:
                     product_info['sale_price'] = price_new_tag.text.strip()
                 if price_old_tag:
-                    product_info['drake_price'] = price_old_tag.text.strip()
-                discount_tag = product.find('span', class_='label-discount')
+                    product_info['price'] = price_old_tag.text.strip()
+                discount_tag = product.select('[class^="sale boost-pfs-filter-label boost-pfs"]')
                 if discount_tag:
-                    product_info['discount'] = discount_tag.text.strip()
+                    product_info['discount'] = discount_tag[0].text.strip()
 
                 # Scrape product detail information
                 try:
-                    product_detail_response = requests.get(product_info['product_url'], headers=headers)
+                    product_detail_response = requests.get('https://supersports.com.vn/' + product_info['product_url'], headers=headers)
                     product_detail_response.raise_for_status()
                     product_detail_soup = BeautifulSoup(product_detail_response.content, 'html.parser')
 
-                    size_select = product_detail_soup.find('select', id=lambda x: x and 'size' in x)
+                    size_select = product_detail_soup.select('input[type="radio"]')
                     if size_select:
-                        sizes = [option.text.strip() for option in size_select.find_all('option') if 'Select Size' not in option.text.strip()]
+                        sizes = [option.get('value').strip() for option in size_select]
                         product_info['sizes'] = sizes
 
-                    attribute_groups = product_detail_soup.find_all('div', class_='attribute-group')
+                    attribute_groups = product_detail_soup.find_all('table', class_='attr-flat-table')
                     for group in attribute_groups:
-                        h3_tag = group.find('h3')
-                        if h3_tag and 'Product Details' in h3_tag.text:
-                            attributes = group.find('ul', class_='attribute-list')
-                            if attributes:
-                                for attribute in attributes.find_all('li'):
-                                    label = attribute.find('label', class_='label')
-                                    data = attribute.find('span', class_='data')
-                                    if label and data:
-                                        label_text = label.get_text(strip=True).replace(':', '')
-                                        data_text = data.get_text(separator="\n", strip=True)
-                                        if label_text and data_text:
-                                            if label_text == "Gender":
-                                                product_info['gender'] = data_text
-                                            elif label_text == "Color":
-                                                product_info['color'] = data_text
-                                            elif label_text == "Upper Material":
-                                                product_info['upper_material'] = data_text
-                                            elif label_text == "Lining":
-                                                product_info['lining'] = data_text
-                                            elif label_text == "Sole":
-                                                product_info['sole'] = data_text
-                                            elif label_text == "Product Features":
-                                                product_info['product_features'] = data_text
+                        infos = group.select('tr')
+                        for item in infos:
+                            label = item.select('td')[0]
+                            data = item.select('td')[1]
+                            if label and data:
+                                label_text = label.get_text(strip=True).replace(':', '')
+                                data_text = data.get_text(separator="\n", strip=True)
+                                if label_text and data_text:
+                                    if "Chất liệu thân giày" in label_text:
+                                        product_info['lining'] = data_text
+                                    elif "Công nghệ" in label_text:
+                                        product_info['product_features'] = data_text
+
                 except requests.RequestException as e:
                     print(f"Failed to retrieve product details: {e}")
 
@@ -94,15 +85,7 @@ def scrapeSupersportsProducts(url, product_list):
                 print(f"Product added: {product_info}")  # Debug print
                 time.sleep(2)
 
-            pagination = soup.find('ul', class_='pagination')
-            if pagination:
-                next_link = pagination.find('a', string='>')
-                if next_link and next_link.get('href'):
-                    url = next_link['href']
-                else:
-                    break
-            else:
-                break
+            pageIndex += 1
 
         except requests.RequestException as e:
             print(f"Failed to retrieve page: {e}")
