@@ -1,7 +1,7 @@
 import argparse
 import os
 from util.crf.train import train, train_test
-from util.crf.load_data import load_dataset  # Ensure this import is correct
+from util.crf.load_data import load_dataset
 
 def main():
     parser = argparse.ArgumentParser("train.py")
@@ -10,10 +10,9 @@ def main():
     parser.add_argument("--train", help="train folder")
     parser.add_argument("--test", help="test folder")
     parser.add_argument("--model", help="path to save model")
-
     args = parser.parse_args()
-
     mode = args.mode
+    
     if mode == "train":
         if not (args.train and args.model):
             parser.error("Mode train requires --train and --model")
@@ -52,15 +51,12 @@ def main():
         except Exception as e:
             print("Error during training:", e)
 
-
-
     elif mode == "train-test":
         if not (args.train and args.test):
             parser.error("Mode train-test requires --train and --test")
         train_path = os.path.abspath(args.train)
         test_path = os.path.abspath(args.test)
         train_test(train_path=train_path, test_path=test_path)
-
 
 if __name__ == "__main__":
     main()
