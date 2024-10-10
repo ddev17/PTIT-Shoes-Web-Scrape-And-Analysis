@@ -194266,4 +194266,4 @@ váy	B-W
 ngắn	B-W
 và	B-W
 xế	B-W
-
+đôi B-

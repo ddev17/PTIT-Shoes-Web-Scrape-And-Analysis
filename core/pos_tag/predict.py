@@ -19,7 +19,7 @@ def main(cfg):
     output_dir = join(working_dir, output_dir_path)
 
     if "text" not in cfg:
-        text = "tôi thích mẫu giày Vans size 42"
+        text = "Mình đang tìm mẫu giày Nike mẫu nam màu vàng chất liệu kim cương size 42 giá 17000"
     else:
         text = cfg["text"]
     tokens = word_tokenize(text)

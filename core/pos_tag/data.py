@@ -86,13 +86,15 @@ def preprocess_shoes_data(dataset):
     for s in dataset:
         si = []
         for row in s:
-            # Tách từng từ trong câu thành các token và tag
-            tokens_tags = row[0].split()  # Tách các từ trong câu
-            for token_tag in tokens_tags:
-                token = token_tag.split('/')[0]  # Tách token
-                tag = token_tag.split('/')[1].replace(' :', '')  # Tách tag và loại bỏ dấu ':'
-                tag = "B-" + tag  # Thêm tiền tố "B-" vào tag
-                si.append([token, tag])  # Thêm cặp token và tag vào danh sách
+            try:
+                tokens_tags = row[0].split()  # Tách các từ trong câu
+                for token_tag in tokens_tags:
+                    token = token_tag.split('/')[0]  # Tách token
+                    tag = token_tag.split('/')[1].replace(' :', '')  # Tách tag và loại bỏ dấu ':'
+                    tag = "B-" + tag  # Thêm tiền tố "B-" vào tag
+                    si.append([token, tag])  # Thêm cặp token và tag vào danh sách
+            except:
+                print('')
 
         output.append(si)  # Thêm danh sách các cặp vào output
     return output

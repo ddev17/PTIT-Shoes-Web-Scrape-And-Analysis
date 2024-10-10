@@ -1,0 +1,10 @@
+Tôi/P :/: ./.
+Adidas/BD :/: ./.
+Vans/BD :/: ./.
+Nike/BD :/: ./.
+Puma/BD :/: ./.
+thích/V ./.
+mẫu/N ./.
+giày/V ./.
+size/V ./.
+42/SZ ./.

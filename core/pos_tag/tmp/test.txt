@@ -1,14 +1,7 @@
-Tìm/V :/: ./.
-Tên_Sách/Np ./.
-Tên_Tác_Giả/Np ./.
-Tìm/V ./.
-theo/E tên/N Tác_Giả/Np ./.
-Tìm/V theo/E Thể_Loại/Np ./.
-Lịch_sử/N ./.
-Cổ_tích/N ./.
-Tuổi_Học_Trò/Np ./.
-Cổ_Văn_Việt_Nam/X ./.
-Tập_Truyện/Np ngắn/A ./.
-Suy_ngẫm/N ,/, Làm_Người/Np ./.
-Nhân_Vật_Lịch/Np sử/N ./.
-Y_Học/N ,/, Sức_Khỏe/Np ./.
+Bạn/P có/V đôi/N giày/N Puma/BD nữ/GD màu/N xanh/CL chất_liệu/N da/MT size/N 42/SZ giá/N 1.600.000/PR
+Anh/P cần/V giày/N Reebok/BD nam/GD màu/N đỏ/CL chất_liệu/N cao su/MT size/N 40/SZ giá/N 2.400.000/PR
+Cô ấy/P thích/V mẫu/N giày/N Nike/BD nữ/GD màu/N trắng/CL chất_liệu/N vải/MT size/N 39/SZ giá/N 1.750.000/PR
+Tôi/P cần/V mua/V giày/N Vans/BD nam/GD màu/N đen/CL chất_liệu/N da/MT size/N 41/SZ giá/N 1.900.000/PR
+Bạn/P có/V mẫu/N giày/N New Balance/BD nữ/GD màu/N xanh/CL chất_liệu/N cao su/MT size/N 38/SZ giá/N 2.200.000/PR
+Anh/P muốn/V đôi/N giày/N Adidas/BD nam/GD màu/N vàng/CL chất_liệu/N vải/MT size/N 42/SZ giá/N 2.500.000/PR
+Cô ấy/P cần/V giày/N Puma/BD nữ/GD màu/N xám/CL chất_liệu/N da/MT size/N 39/SZ giá/N 1.800.000/PR
