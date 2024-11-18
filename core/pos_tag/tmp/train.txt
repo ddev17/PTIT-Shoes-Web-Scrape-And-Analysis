@@ -41,491 +41,247 @@ Bạn/P có/V mẫu/N giày/N Nike/BD nữ/GD màu/N đỏ/CL chất_liệu/N v�
 Tôi\P đang\V tìm\V một\N đôi\N giày\N đá\N bóng\N màu\N đen\CL, với giá\N 2400000\PR có\V chất_liệu\N Textile\MT và\N lớp\N lót\N Vải_dệt\MT.
 Có\V đôi\N giày\N nào\N chất_liệu\N Textile\MT và\N lớp_lót\N Vải_dệt\MT không\N
 Tôi\P muốn\V mua\V giày\N đá\V bóng\N chất_liệu\N Da_tổng_hợp\MT lớp_lót\N Nubuck\MT giá\N 2400000\PR
-
 Bạn\P có_thể\V gợi_ý\V cho\V tôi\P một\N đôi\N giày\N màu_hồng\CL chất_liệu\N Cao_su\MT không\N
-
 Mình\N cần\V một\N đôi_giày\N có\V kích_thước\N từ\N 39\SZ đến\N 46\SZ lớp_lót\N Polyester\MT giá\N 2400000\PR
-
-Có\V giàY\N nào\N dành\N cho\N cả\N nam\GD và\N nữ\GD màu xám\CL chất_liệu\MT Vải_lưới\N lớp_lót\N Da\LN"
-
+Có\V giàY\N nào\N dành\N cho\N cả\N nam\GD và\N nữ\GD màu xám\CL chất_liệu\MT Vải_lưới\N lớp_lót\N Da\LN
 Tôi\P đang\N tìM\V một\N đôi\N giày\N màu\N green\CL giá\N 2400000\PR
-
 Bạn\P có\V mẫu\N giày\N nào\N chất_liệu\N Vải_dệt\N có\V kích_thước\N từ\N 39\SZ đến\N 46\SZ không\N
-
 Có\P đôi\N giày\N nào\N màu\N cam\CL giá\N 2400000\PR không\N
-
 Xin_chào\V tôi\N cần\V một\N đôi\N giày\N đá\V bóng\N có\V kích_thước\N từ\N 39\SZ đến\N 46\SZ, lớp_lót\N Microfiber\LN
-
 Mình\P muốn\V tìm\V giày\N màu\N nâu\CL chất_liệu\N Recycled_Cotton\MT
-
 Có\V giày\N nào\N dành\V cho\N cả\N nam\GD và\N nữ\GD màu\N purple\CL giá\N dưới\N 2400000\PR không\N
-
 Tôi\P muốN\V một\N đôi\N giày\N có\V màu\N cream\CL lớp_lót\N Cotton\MT kích_thước\N từ\N 39\SZ đến\N 46\SZ
-
 Có\V mẫu\N giày\N nào\N với\N chất_liệu\N EVA\MT giá\N 2400000\PR không\N
-
 Bạn\P có_thể\V giới_thiệu\V cho\V tôi\P một\N đôi\N giày\N màu\N gold\CL kích_thước\N từ\N 39\SZ đến\N 46\SZ không\N
-
 Mình\P cần\V một\N đôi\N giày\N đá\V bóng\N chất_liệu\N Canvas\MT lớp\N lót\N TPU\LN giá\N 2400000\PR
-
 Có\V giày\N nào\N màu\N burgundy\CL kích_thước\N từ\N 39\SZ đến\N 46\SZ không\N
-
 Xin_chào\V tôi\P đanG\N tìm\V giày\N đá\V bóng\N với\N lớp_lót\N Lưới_tổng_hợp\LN giá\N 2400000\PR
-
 Bạn\P có\V giày\N nào\N màu\N teal\CL kích_thước\N từ\N 39\SZ đến\N 46\SZ không\N
-
 Có\V mẫu\N giày\N nào\N màu\N lavender\CL lớp_lót\N Da_lộn\LN không\N
-
 Tôi\P muốn\V tìm\V một\N đôi\N giày\N đá\V bóng\N màu\N cyan\CL có\V kích_thước\N từ\N 39\SZ đến\N 46\SZ
-
 Có\V giày\N nào\N màu\N khaki\CL chất_liệu\N Nylon\MT không\N
-
 Xin_chào\N có\V mẫu\N giày\N nào\N chất_liệu\N Synthetic\MT giá\N 2400000\PR không\N
-
 Mình\P cần\V một\N đôi\N giày\N màu\N aqua\CL kích_thước\N từ\N 39\SZ đến\N 46\SZ lớp_lót\N Tổng_hợp\LN
-
 Có\V giày\N nào\N dành\V cho\N cả\N nam\GD và\N nữ\GD chất_liệu\N Microfiber\MT giá\N dưới\N 2400000\PR không\N
-
 Bạn\P có_thể\V giới_thiệu\V cho\N tôi\P một\N đôi\N giày\N màu\N violet\CL không\N
-
 tôi\P muốn\V một\N đôi\N giày\N Có\V kích_thước\N từ\N 39\SZ đến\N 46\SZ màu\N mint\CL giá\N 2400000\PR
-
 tôi\P đang\V tìm\V một\N đôi\N giày\N màu\N đỏ\CL chất_liệu\N Nylon\MT và\N kích_thước\N 42\SZ với\N lớp_lót\N là\N vải_dệt\MT
-
 Có\V giày\N nào\N màu\N xanh_dương\CL kích_thước\N 39\SZ làm\V từ\N Canvas\MT không\N và\N giá\N khoảng\N 2000000\PR
-
 Xin\V cho\N tôi\P biết\V về\N giày\N màu\N xanh_lá_cây\CL kích_thước\N 41\SZ với\N lớp_lót\N EVAN\LN và\N giá\N là\N 1500000\PR
-
 tôi\P cần\V một\N đôi\N giày\N màu\N vàng\CL kích_thước\N 40\SZ được\N làm\V từ\N Polyester\MT dành\V cho\N nam\GD
-
 Có\V phải\N Bạn\P Có\V giày\N màu\N đen\CL kích_thước\N 43\SZ với\N chất_liệu\N Synthetic\MT không\N và\N giá\N là\N 2400000\PR
-
 tôi\P đang\V tìm_kiếm\V một\N đôi\N giày\N trắng\CL kích_thước\N 44\SZ với\N lớp_lót\N Cotton\MT và\N giá\N khoảng\N 1700000\PR
-
 liệu\N Có\V đôi\N giày\N màu\N tím\CL kích_thước\N 45\SZ làm\V từ\N Recycled_Polyester\MT không\N với\N lớp_lót\N là\N Da_tổng_hợp\MT
-
 tôi\P muốn\V biết\V liệu\N Có\V giày\N màu\N hồng\CL nào\N kích_thước\N 39\SZ từ\N Da_lộn\MT và\N giá\N 2100000\PR không\N
-
 Xin\V cho\N tôi\P thông_tin\N về\N giày\N màu\N xám\CL kích_thước\N 42\SZ Có\V lớp_lót\N TPUN\LN và\N chất_liệu\N Microfiber\MT
-
 tôi\P Có\V nhu_cầu\N về\N giày\N màu\N cam\CL kích_thước\N 41\SZ làm\V từ\N Microfiber\MT với\N giá\N khoảng\N 2300000\PR
-
 Có\V giày\N nâu\CL nào\N kích_thước\N 46\SZ với\N lớp_lót\N vải_dệt\MT và\N màu\N sắc cho\N nữ\GD không\N
-
 tôi\P cần\V một\N đôi\N giày\N màu\N be\CL kích_thước\N 40\SZ chất_liệu\N Canvas\MT và\N giá\N không\N quá 1900000\PR
-
 Có\V giày\N màu\N vàng_kim\CL kích_thước\N 44\SZ làm\V từ\N Da_tổng_hợp\MT không\N dành\V cho\N nữ\GD
-
 tôi\P đang\V tìm\V giày\N màu\N bạc\CL kích_thước\N 43\SZ với\N lớp_lót\N Organic_Cotton\MT và\N giá\N 2500000\PR
-
 cho\N tôi\P biết\V về\N giày\N màu\N teal kích_thước\N 41\SZ được\N làm\V từ\N Textile và\N giá\N là\N 1600000\PR
-
 Có\V giày\N màu\N cyan kích_thước\N 45\SZ làm\V từ\N Vải\MT không\N và\N Có\V lót\N Da_tổng_hợp\MT không\N
-
 tôi\P đang\V cần\V một\N đôi\N giày\N xanh_hải_quân\CL kích_thước\N 42\SZ với\N lớp_lót\N Nubuck\LN và\N giá\N 2200000\PR
-
 Bạn\P Có\V giày\N màu\N kem\CL kích_thước\N 39\SZ chất_liệu\N Vải_lưới\MT không\N và\N giá\N không\N quá 1800000\PR
-
 tôi\P đang\V tìm\V giày\N màu\N tím_nhạt\CL kích_thước\N 40\SZ với\N lớp_lót\N Polyester\MT và\N giá\N khoảng\N 2000000\PR
-
 Có\V giày\N màu\N caramel\CL nào\N kích_thước\N 42\SZ làm\V từ\N Lông_nhân_tạo\MT không\N và\N giá\N 2300000\PR
-
 tôi\P muốn\V biết\V Có\V giày\N màu\N xanh_bạc_hà\CL kích_thước\N 40\SZ với\N lớp_lót\N Canvas\MT và\N dành\V cho\N nam\GD không\N
-
 Có\V giày\N màu\N khaki\MT nào\N kích_thước\N 41\SZ được\N làm\V từ\N Nylon\MT không\N với\N giá\N khoảng\N 1900000\PR
-
 tôi\P đang\V tìm\V một\N đôi\N giày\N màu\N đồng\CL kích_thước\N 44\SZ với\N lớp_lót\N OrthoLite\MT và\N giá\N 2100000\PR
-
 Bạn\P Có\V giày\N màu\N chàm\CL nào\N kích_thước\N 43\SZ làm\V từ\N chất_liệu\N Synthetic\MT không\N và\N dành\V cho\N nữ\GD
-
 tôi\P muốn\V một\N đôi\N giày\N màu\N xanh_dương\CL kích_thước\N 39\SZ với\N lớp_lót\N Cotton\MT và\N giá\N là\N 1800000\PR
-
 tôi\P đang\V tìm\V một\N đôi\N giày\N màu\N đỏ\CL chất_liệu\N Nylon\MT kích_thước\N 42\SZ lớp_lót\N vải_dệt\MT giá\N khoảng\N 2400000\PR
-
 Bạn\P Có\V giày\N màu\N xanh_dương\CL kích_thước\N 39\SZ chất_liệu\N Canvas\MT lớp_lót\N EVAN\LN và\N giá\N khoảng\N 1800000\PR không\N
-
 tôi\P muốn\V biết\V liệu\N Có\V giày\N màu\N xanh_lá_cây\CL kích_thước\N 41\SZ làm\V từ\N EVAN\LN với\N lớp_lót\N Da_tổng_hợp\MT giá\N 2000000\PR không\N
-
 Có\V giày\N màu\N vàng\CL nào\N kích_thước\N 40\SZ làm\V từ\N Polyester\MT lớp_lót\N Vải\MT và\N giá\N 1700000\PR không\N
-
 tôi\P đang\V tìm\V giày\N màu\N đen\CL kích_thước\N 43\SZ với\N chất_liệu\N Synthetic\MT lớp_lót\N Cotton\MT dành\V cho\N nam\GD
-
 Bạn\P Có\V đôi\N giày\N màu\N trắng\CL nào\N kích_thước\N 44\SZ với\N lớp_lót\N Cotton\MT chất_liệu\N Nylon\MT và\N giá\N 2200000\PR không\N
-
 tôi\P muốn\V tìm\V một\N đôi\N giày\N màu\N tím\CL kích_thước\N 45\SZ làm\V từ\N Recycled_Polyester\MT lớp_lót\N Da_tổng_hợp\MT giá\N là\N 2500000\PR
-
 Có\V đôi\N giày\N nào\N màu\N hồng\CL kích_thước\N 39\SZ chất_liệu\N Da_lộn\MT với\N lớp_lót\N TPUN\LN và\N giá\N 2100000\PR không\N
-
 tôi\P cần\V giày\N màu\N xám\CL kích_thước\N 42\SZ chất_liệu\N Microfiber\MT lớp_lót\N EVAN\LN giá\N 2300000\PR
-
 Có\V giày\N cam\CL nào\N kích_thước\N 41\SZ chất_liệu\N Microfiber\MT với\N lớp_lót\N vải_dệt\MT dành\V cho\N nữ\GD không\N
-
 tôi\P đang\V tìm_kiếm\V giày\N màu\N nâu\CL kích_thước\N 46\SZ chất_liệu\N Canvas\MT lớp_lót\N Polyester\MT và\N giá\N 2400000\PR
-
 tôi\P muốn\V biết\V Có\V giày\N màu\N be\CL kích_thước\N 40\SZ chất_liệu\N Canvas\MT lớp_lót\N EVAN\LN dành\V cho\N nam\GD không\N
-
 liệu\N Bạn\P Có\V giày\N màu\N vàng_kim\CL kích_thước\N 44\SZ chất_liệu\N Da_tổng_hợp\MT lớp_lót\N Cotton\MT và\N giá\N 2600000\PR không\N
-
 tôi\P cần\V một\N đôi\N giày\N màu\N bạc\CL kích_thước\N 43\SZ chất_liệu\N Organic_Cotton\MT lớp_lót\N Da_lộn\MT dành\V cho\N nữ\GD
-
 Có\V giày\N nào\N màu\N xanh_teal\CL kích_thước\N 41\SZ chất_liệu\N Textile lớp_lót\N Polyester\MT và\N giá\N khoảng\N 1900000\PR không\N
-
 tôi\P đang\V tìm\V giày\N màu\N cyan kích_thước\N 45\SZ với\N chất_liệu\N Vải\MT lớp_lót\N Nubuck\LN dành\V cho\N cả\N nam\GD và\N nữ\GD
-
 Bạn\P Có\V giày\N màu\N xanh_hải_quân\CL nào\N kích_thước\N 42\SZ lớp_lót\N Nubuck\LN chất_liệu\N Nylon\MT và\N giá\N là\N 2200000\PR không\N
-
 tôi\P muốn\V mua\V giày\N màu\N kem\CL kích_thước\N 39\SZ chất_liệu\N Vải_lưới\MT lớp_lót\N EVAN\LN và\N giá\N dưới\N 2000000\PR
-
 liệu\N Có\V giày\N màu\N tím_nhạt\CL kích_thước\N 40\SZ chất_liệu\N Polyester\MT lớp_lót\N Da_tổng_hợp\MT dành\V cho\N cả\N nam\GD lẫn nữ\GD không\N
-
 tôi\P đang\V tìm\V giày\N màu\N caramel\CL kích_thước\N 42\SZ làm\V từ\N Lông_nhân_tạo\MT với\N lớp_lót\N Microfiber\MT và\N giá\N 2300000\PR
-
 Bạn\P Có\V đôi\N giày\N màu\N xanh_bạc_hà\CL kích_thước\N 40\SZ chất_liệu\N Nylon\MT lớp_lót\N Canvas\MT và\N giá\N là\N 2100000\PR không\N
-
 Có\V giày\N màu\N khaki\MT kích_thước\N 41\SZ chất_liệu\N Nylon\MT lớp_lót\N Da_tổng_hợp\MT giá\N 1800000\PR không\N
-
 tôi\P đang\V tìm\V giày\N màu\N đồng\CL kích_thước\N 44\SZ chất_liệu\N OrthoLite\MT lớp_lót\N Cotton\MT giá\N 2100000\PR
-
 tôi\P cần\V giày\N màu\N chàm\CL kích_thước\N 43\SZ làm\V từ\N Synthetic\MT lớp_lót\N Vải\MT và\N dành\V cho\N nữ\GD
-
 Có\V giày\N nào\N màu\N xanh_dương\CL kích_thước\N 39\SZ với\N lớp_lót\N Cotton\MT chất_liệu\N Nylon\MT và\N giá\N dưới\N 1900000\PR không\N
-
 Bạn\P Có\V đôi\N giày\N màu\N đỏ\CL kích_thước\N 42\SZ chất_liệu\N Nylon\MT lớp_lót\N vải_dệt\MT và\N giá\N 2400000\PR không\N
-
 tôi\P đang\V tìm\V giày\N màu\N xanh_dương\CL kích_thước\N 39\SZ chất_liệu\N Canvas\MT lớp_lót\N EVA\LN dành\V cho\N cả\N nam\GD và\N nữ\GD
-
 Bạn\P Có\V giày\N màu\N xanh_lá_cây\CL kích_thước\N 41\SZ chất_liệu\N EVAN\LN lớp_lót\N Da_tổng_hợp\MT và\N giá\N dưới\N 2300000\PR không\N
-
 tôi\P cần\V đôi\N giày\N màu\N vàng\CL kích_thước\N 40\SZ với\N lớp_lót\N Vải\MT chất_liệu\N Polyester\MT và\N giá\N là\N 1900000\PR
-
 Bạn\P Có\V giày\N màu\N đen\CL nào\N kích_thước\N 43\SZ chất_liệu\N Synthetic\MT với\N lớp_lót\N Cotton\MT và\N giá\N khoảng\N 2400000\PR không\N
-
 tôi\P đang\V tìm\V một\N đôi\N giày\N màu\N trắng\CL kích_thước\N 44\SZ chất_liệu\N Nylon\MT lớp_lót\N Cotton\MT và\N giá\N khoảng\N 2200000\PR
-
 liệu\N Có\V giày\N màu\N tím\CL kích_thước\N 45\SZ làm\V từ\N Recycled_Polyester\MT lớp_lót\N Da_tổng_hợp\MT và\N giá\N 2500000\PR không\N
-
 Bạn\P Có\V đôi\N giày\N màu\N hồng\CL nào\N kích_thước\N 39\SZ chất_liệu\N Da_lộn\MT với\N lớp_lót\N TPUN\LN và\N giá\N 2100000\PR không\N
-
 tôi\P muốn\V biết\V Có\V giày\N màu\N xám\CL kích_thước\N 42\SZ chất_liệu\N Microfiber\MT lớp_lót\N EVAN\LN không\N và\N giá\N khoảng\N 2300000\PR\PR
-
 tôi\P đang\V tìm\V giày\N màu\N cam\CL kích_thước\N 41\SZ chất_liệu\N Microfiber\MT lớp_lót\N vải_dệt\MT giá\N dưới\N 2400000\PR
-
 Bạn\P Có\V đôi\N giày\N màu\N nâu\CL nào\N kích_thước\N 46\SZ chất_liệu\N Canvas\MT lớp_lót\N Polyester\MT giá\N 2200000\PR không\N
-
 tôi\P muốn\V mua\V một\N đôi\N giày\N màu\N be\CL kích_thước\N 40\SZ chất_liệu\N Canvas\MT lớp_lót\N EVAN\LN dành\V cho\N nam\GD
-
 Có\V giày\N màu\N vàng_kim\CL kích_thước\N 44\SZ chất_liệu\N Da_tổng_hợp\MT với\N lớp_lót\N Cotton\MT và\N giá\N 2600000\PR không\N
-
 tôi\P đang\V tìm\V giày\N màu\N bạc\CL kích_thước\N 43\SZ chất_liệu\N Organic_Cotton\MT lớp_lót\N Da_lộn\MT dành\V cho\N nữ\GD
-
 tôi\P cần\V một\N đôi\N giày\N màu\N xanh_teal\CL kích_thước\N 41\SZ chất_liệu\N Textile lớp_lót\N Polyester\MT giá\N dưới\N 1900000\PR
-
 Bạn\P Có\V giày\N màu\N cyan nào\N kích_thước\N 45\SZ chất_liệu\N Vải\MT lớp_lót\N Nubuck\LN và\N giá\N khoảng\N 2300000\PR không\N
-
 tôi\P đang\V tìm\V một\N đôi\N giày\N màu\N xanh_hải_quân\CL kích_thước\N 42\SZ với\N lớp_lót\N Nubuck\LN chất_liệu\N Nylon\MT
-
 liệu\N Có\V giày\N màu\N kem\CL kích_thước\N 39\SZ chất_liệu\N Vải_lưới\MT với\N lớp_lót\N EVAN\LN giá\N 1800000\PR không\N
-
 tôi\P muốn\V biết\V Có\V giày\N màu\N tím_nhạt\CL kích_thước\N 40\SZ chất_liệu\N Polyester\MT lớp_lót\N Da_tổng_hợp\MT không\N
-
 Bạn\P Có\V đôi\N giày\N màu\N caramel\CL nào\N kích_thước\N 42\SZ làm\V từ\N Lông_nhân_tạo\MT lớp_lót\N Microfiber\MT giá\N 2300000\PR không\N
-
 tôi\P đang\V tìm\V giày\N màu\N xanh_bạc_hà\CL kích_thước\N 40\SZ chất_liệu\N Nylon\MT lớp_lót\N Canvas\MT giá\N dưới\N 2100000\PR
-
 Có\V giày\N màu\N khaki\MT nào\N kích_thước\N 41\SZ với\N chất_liệu\N Nylon\MT lớp_lót\N Da_tổng_hợp\MT và\N giá\N 1800000\PR không\N
-
 tôi\P muốn\V biết\V Có\V đôi\N giày\N màu\N đồng\CL nào\N kích_thước\N 44\SZ với\N chất_liệu\N OrthoLite\MT lớp_lót\N Cotton\MT giá\N 2100000\PR không\N
-
 tôi\P đang\V tìm\V một\N đôi\N giày\N màu\N chàm\CL kích_thước\N 43\SZ với\N lớp_lót\N Vải\MT chất_liệu\N Synthetic\MT dành\V cho\N nữ\GD
-
 Bạn\P Có\V giày\N màu\N xanh_dương\CL nào\N kích_thước\N 39\SZ với\N lớp_lót\N Cotton\MT chất_liệu\N Nylon\MT và\N giá\N 1900000\PR không\N
-
 tôi\P đang\V tìm\V giày\N màu\N đỏ\CL kích_thước\N 42\SZ với\N chất_liệu\N Nylon\MT lớp_lót\N vải_dệt\MT giá\N khoảng\N 2400000\PR
-
 Bạn\P Có\V đôi\N giày\N màu\N xanh_dương\CL kích_thước\N 39\SZ chất_liệu\N Canvas\MT lớp_lót\N EVAN\LN và\N giá\N 2000000\PR không\N
-
 liệu\N Bạn\P Có\V giày\N màu\N xanh_lá_cây\CL với\N kích_thước\N 41\SZ giá\N 2000000\PR làm\V từ\N EVAN\LN và\N lớp_lót\N Da_tổng_hợp\MT không\N
-
 tôi\P đang\V tìm\V giày\N kích_thước\N 40\SZ màu\N vàng\CL lớp_lót\N Vải\MT với\N giá\N dưới\N 1900000\PR chất_liệu\N Polyester\MT
-
 Có\V giày\N nào\N màu\N đỏ\CL dành\V cho\N nữ\GD với\N kích_thước\N 42\SZ chất_liệu\N Nylon\MT giá\N 2400000\PR và\N lớp_lót\N vải_dệt\MT không\N
-
 Bạn\P Có\V giày\N xanh_dương\CL làm\V từ\N Canvas\MT với\N giá\N khoảng\N 1800000\PR kích_thước\N 39\SZ và\N lớp_lót\N EVAN\LN không\N
-
 tôi\P muốn\V mua\V một\N đôi\N giày\N làm\V từ\N Polyester\MT màu\N vàng_kim\CL kích_thước\N 44\SZ với\N lớp_lót\N Cotton\MT và\N giá\N 2600000\PR
-
 Có\V đôi\N giày\N nào\N màu\N nâu\CL chất_liệu\N Microfiber\MT kích_thước\N 46\SZ dành\V cho\N nam\GD lớp_lót\N vải_dệt\MT và\N giá\N 2200000\PR không\N
-
 tôi\P đang\V tìm_kiếm\V giày\N màu\N trắng\CL lớp_lót\N Cotton\MT với\N giá\N dưới\N 2300000\PR chất_liệu\N Nylon\MT và\N kích_thước\N 44\SZ
-
 Bạn\P Có\V giày\N tím_nhạt\CL kích_thước\N 40\SZ giá\N 1900000\PR lớp_lót\N Da_tổng_hợp\MT và\N làm\V từ\N Polyester\MT không\N
-
 Có\V giày\N nào\N màu\N bạc\CL dành\V cho\N nữ\GD chất_liệu\N Organic_Cotton\MT kích_thước\N 43\SZ và\N lớp_lót\N Da_lộn\MT với\N giá\N khoảng\N 2100000\PR không\N
-
 tôi\P cần\V giày\N xanh_bạc_hà\CL lớp_lót\N Canvas\MT kích_thước\N 40\SZ giá\N 2200000\PR và\N chất_liệu\N Nylon\MT
-
 Bạn\P Có\V giày\N màu\N đỏ\CL với\N lớp_lót\N vải_dệt\MT dành\V cho\N nam\GD kích_thước\N 42\SZ và\N giá\N khoảng\N 2400000\PR không\N
-
 tôi\P đang\V tìm\V giày\N màu\N cyan chất_liệu\N Vải\MT với\N lớp_lót\N Nubuck\LN kích_thước\N 45\SZ và\N giá\N 2100000\PR
-
 Có\V giày\N khaki\MT kích_thước\N 41\SZ với\N lớp_lót\N Da_tổng_hợp\MT chất_liệu\N Nylon\MT và\N giá\N dưới\N 1800000\PR không\N
-
 tôi\P muốn\V biết\V Có\V giày\N màu\N xanh_hải_quân\CL lớp_lót\N Nubuck\LN dành\V cho\N cả\N nam\GD lẫn nữ\GD kích_thước\N 42\SZ giá\N 2000000\PR không\N
-
 tôi\P cần\V giày\N màu\N be\CL kích_thước\N 40\SZ giá\N 2200000\PR lớp_lót\N EVAN\N và\N chất_liệu\N Canvas\MT
-
 Bạn\P Có\V giày\N nào\N màu\N vàng_kim\CL kích_thước\N 44\SZ với\N lớp_lót\N Cotton\MT và\N chất_liệu\N Da_tổng_hợp\MT không\N
-
 tôi\P đang\V tìm\V giày\N màu\N đồng\CL chất_liệu\N OrthoLite\MT kích_thước\N 44\SZ giá\N 2100000\PR và\N lớp_lót\N Cotton\MT
-
 liệu\N Bạn\P Có\V giày\N chàm\CL kích_thước\N 43\SZ lớp_lót\N Vải\MT dành\V cho\N nữ\GD với\N giá\N khoảng\N 2000000\PR không\N
-
-"Tôi/P cần/V đôi_giày/N màu/N xanh_dương/CL, lớp_lót/N Cotton/LN, kích_thước/N 39/SZ với/V giá/N 1900000/PR và/N chất_liệu/N Nylon/MT."
-
-"Bạn/P có/V giày/N màu/N xanh_lá_cây/CL, kích_thước/N 41/SZ, giá/N dưới/N 2100000/PR, lớp_lót/N Da_tổng_hợp/LN và/N chất_liệu/N EVA/MT không/N?"
-
-"Tôi/P muốn/V mua/V giày/N đỏ/CL, lớp_lót/N Vải_dệt/LN, dành_cho/V nam/GD, kích_thước/N 42/SZ, chất_liệu/N Nylon/MT và/N giá/N khoảng/N 2400000/PR."
-
-"Có/V đôi_giày/N nào/N màu/N tím_nhạt/CL, chất_liệu/N Polyester/MT, với/V lớp_lót/N Da_tổng_hợp/LN, kích_thước/N 40/SZ, và/N giá/N 1900000/PR không/N?"
-
-"Tôi/P đang/V tìm_kiếm/V giày/N màu/N nâu/CL, kích_thước/N 46/SZ, lớp_lót/N Vải_dệt/LN, dành_cho/V nữ/GD, với/V chất_liệu/N Microfiber/MT và/N giá/N dưới/N 2300000/PR."
-
-"Bạn/P có/V giày/N khaki/CL với/V lớp_lót/N Da_tổng_hợp/LN, kích_thước/N 41/SZ, làm_từ/V Nylon/MT, giá/N 1800000/PR không/N?"
-
-"Tôi/P muốn/V biết/V liệu/N có/V giày/N màu/N xanh_bạc_hà/CL, kích_thước/N 40/SZ, lớp_lót/N Canvas/LN, với/V giá/N 2100000/PR không/N?"
-
-"có/V đôi_giày/N nào/N màu/N xám/CL, kích_thước/N 42/SZ, với/V lớp_lót/N EVA/LN, chất_liệu/N Microfiber/MT và/N giá/N 2300000/PR không/N?"
-
-"Tôi/P đang/V tìm/V giày/N cam/CL, chất_liệu/N Microfiber/MT, kích_thước/N 41/SZ, với/V giá/N khoảng/N 2400000/PR và/N lớp_lót/N Vải_dệt/LN."
-
-"Bạn/P có/V giày/N màu/N be/CL, kích_thước/N 40/SZ, chất_liệu/N Canvas/MT, với/V giá/N 2200000/PR và/N lớp_lót/N EVA/LN không/N?"
-
-"Tôi/P muốn/V mua/V giày/N màu/N vàng_kim/CL, kích_thước/N 44/SZ, chất_liệu/N Da_tổng_hợp/MT, lớp_lót/N Cotton/LN và/N giá/N dưới/N 2600000/PR."
-
-"Tôi/P cần/V giày/N màu/N xanh_dương/CL, kích_thước/N 39/SZ, với/V giá/N 1900000/PR, chất_liệu/N Nylon/MT và/N lớp_lót/N Cotton/LN."
-
-"Liệu/N Bạn/P có/V giày/N màu/N đỏ/CL, làm_từ/V Nylon/MT, kích_thước/N 42/SZ, giá/N dưới/N 2400000/PR và/N lớp_lót/N Vải_dệt/LN không/N?"
-
-"Tôi/P muốn/V tìm/V giày/N màu/N xanh_hải_quân/CL, chất_liệu/N Nylon/MT, kích_thước/N 42/SZ, với/V giá/N 2000000/PR và/N lớp_lót/N Nubuck/LN."
-
-"Tôi/P đang/V tìm_kiếm/V giày/N màu/N đồng/CL, kích_thước/N 44/SZ, lớp_lót/N Cotton/LN, với/V chất_liệu/N OrthoLite/MT và/N giá/N khoảng/N 2100000/PR."
-
-"Bạn/P có/V giày/N khaki/CL với/V lớp_lót/N Da_tổng_hợp/LN, chất_liệu/N Nylon/MT, kích_thước/N 41/SZ và/N giá/N dưới/N 1800000/PR không/N?"
-
-"Tôi/P muốn/V mua/V đôi_giày/N màu/N bạc/CL, kích_thước/N 43/SZ, chất_liệu/N Organic_Cotton/MT, dành_cho/V nữ/GD, với/V giá/N 2300000/PR."
-
-"có/V giày/N màu/N tím_nhạt/CL, làm_từ/V Polyester/MT, kích_thước/N 40/SZ, lớp_lót/N Da_tổng_hợp/LN và/N giá/N 1900000/PR không/N?"
-
-"Tôi/P đang/V tìm/V giày/N màu/N đỏ/CL, chất_liệu/N Nylon/MT, lớp_lót/N Vải_dệt/LN, với/V giá/N khoảng/N 2400000/PR, kích_thước/N 42/SZ."
-
-"Bạn/P có/V giày/N màu/N xanh_dương/CL, lớp_lót/N EVA/LN, chất_liệu/N Canvas/MT, kích_thước/N 39/SZ và/N giá/N dưới/N 2000000/PR không/N?"
-
-"Tôi/P muốn/V tìm/V giày/N màu/N vàng/CL, kích_thước/N 40/SZ, lớp_lót/N Vải/LN, với/V giá/N 1900000/PR và/N chất_liệu/N Polyester/MT."
-
-"có/V giày/N màu/N xám/CL nào/N, chất_liệu/N Microfiber/MT, kích_thước/N 42/SZ, với/V lớp_lót/N EVA/LN và/N giá/N dưới/N 2300000/PR không/N?"
-
-"Tôi/P cần/V một đôi_giày/N màu/N cam/CL, kích_thước/N 41/SZ, với/V lớp_lót/N Vải_dệt/LN, giá/N 2400000/PR và/N chất_liệu/N Microfiber/MT."
-
-"Bạn/P có/V giày/N màu/N trắng/CL, lớp_lót/N Cotton/LN, kích_thước/N 44/SZ, với/V chất_liệu/N Nylon/MT và/N giá/N dưới/N 2300000/PR không/N?"
-
-"Tôi/P muốn/V tìm/V giày/N màu/N đen/CL, kích_thước/N 43/SZ, lớp_lót/N Cotton/LN, với/V giá/N khoảng/N 2400000/PR và/N chất_liệu/N Synthetic/MT."
-
-"Liệu/N có/V giày/N nào/N màu/N xanh_lá_cây/CL, kích_thước/N 41/SZ, với/V chất_liệu/N EVA/MT và/N lớp_lót/N Da_tổng_hợp/LN không/N?"
-
-"Tôi/P đang/V tìm/V giày/N màu/N vàng_kim/CL, lớp_lót/N Cotton/LN, kích_thước/N 44/SZ, chất_liệu/N Da_tổng_hợp/MT và/N giá/N khoảng/N 2600000/PR."
-
-"Bạn/P có/V giày/N màu/N bạc/CL, chất_liệu/N Organic_Cotton/MT, kích_thước/N 43/SZ, dành_cho/V nữ/GD, và/N giá/N 2300000/PR không/N?"
-
-"Tôi/P muốn/V biết liệu có/V giày/N màu/N cyan/CL, kích_thước/N 45/SZ, với/V chất_liệu/N Vải/MT và/N giá/N 2100000/PR không/N?"
-
-"Tôi/P đang/V tìm/V giày/N màu/N be/CL, lớp_lót/N EVA/LN, kích_thước/N 40/SZ, với/V chất_liệu/N Canvas/MT và/N giá/N dưới/N 2200000/PR."
-
-"có/V đôi_giày/N nào/N màu/N xanh_navy/CL, kích_thước/N 42/SZ, lớp_lót/N Nubuck/LN, chất_liệu/N Canvas/MT và/N giá/N khoảng/N 2100000/PR không/N?"
-
-"Tôi/P muốn/V biết có/V giày/N khaki/CL kích_thước/N 41/SZ, giá/N 1800000/PR, làm_từ/V Nylon/MT và/N lớp_lót/N Da_tổng_hợp/LN không/N?"
-
-"Bạn/P có/V bán giày/N màu/N đỏ/CL, kích_thước/N 42/SZ, với/V giá/N 2400000/PR, chất_liệu/N Polyester/MT và/N lớp_lót/N EVA/LN không/N?"
-
-"có/V đôi_giày/N nào/N màu/N hồng/CL, làm_từ/V Da_lộn/MT, kích_thước/N 39/SZ, dành_cho/V nữ/GD, với/V giá/N dưới/N 2000000/PR không/N?"
-
-"Tôi/P đang/V tìm/V một đôi_giày/N màu/N nâu/CL, lớp_lót/N Vải_dệt/LN, kích_thước/N 46/SZ, giá/N 2200000/PR và/N chất_liệu/N Microfiber/MT."
-
-"Liệu/N có/V giày/N xanh_dương/CL nào/N với/V chất_liệu/N Canvas/MT, kích_thước/N 39/SZ, giá/N 1800000/PR và/N lớp_lót/N EVA/LN không/N?"
-
-"Bạn/P có/V giày/N xanh_lá_cây/CL, dành_cho/V nam/GD, kích_thước/N 41/SZ, với/V lớp_lót/N Cotton/LN và/N giá/N dưới/N 2100000/PR không/N?"
-
-"Tôi/P muốn/V mua/V giày/N màu/N trắng/CL, lớp_lót/N Polyester/LN, kích_thước/N 44/SZ, chất_liệu/N Nylon/MT và/N giá/N 2300000/PR."
-
-"có/V đôi_giày/N nào/N màu/N tím/CL, kích_thước/N 40/SZ, lớp_lót/N Da_tổng_hợp/LN, làm_từ/V EVA/MT và/N giá/N khoảng/N 2500000/PR không/N?"
-
-"Tôi/P đang/V tìm/V giày/N màu/N bạc/CL, kích_thước/N 43/SZ, lớp_lót/N Vải/LN, với/V giá/N 2200000/PR và/N chất_liệu/N Organic_Cotton/MT."
-
-"Bạn/P có/V giày/N màu/N be/CL, kích_thước/N 40/SZ, lớp_lót/N Canvas/LN, làm_từ/V Nylon/MT và/N giá/N dưới/N 1900000/PR không/N?"
-
-"Tôi/P cần/V một đôi_giày/N màu/N đỏ/CL, dành_cho/V nữ/GD, kích_thước/N 42/SZ, chất_liệu/N Polyester/MT, giá/N 2500000/PR và/N lớp_lót/N EVA/LN."
-
-"có/V giày/N nào/N màu/N xanh_lá_cây/CL, kích_thước/N 41/SZ, với/V chất_liệu/N EVA/MT, giá/N 2200000/PR và/N lớp_lót/N Da_tổng_hợp/LN không/N?"
-
-"Bạn/P có/V giày/N màu/N xanh_bạc_hà/CL, làm_từ/V Canvas/MT, kích_thước/N 40/SZ, với/V lớp_lót/N Vải/LN và/N giá/N dưới/N 2300000/PR không/N?"
-
-"Tôi/P đang/V tìm/V một đôi_giày/N màu/N xanh_dương/CL, lớp_lót/N Cotton/LN, kích_thước/N 39/SZ, chất_liệu/N Nylon/MT và/N giá/N khoảng/N 1900000/PR."
-
-"Bạn/P có/V giày/N màu/N vàng_kim/CL, kích_thước/N 44/SZ, với/V lớp_lót/N Cotton/LN, chất_liệu/N Da_tổng_hợp/MT và/N giá/N 2600000/PR không/N?"
-
-"Tôi/P cần/V mua/V giày/N màu/N khaki/CL, kích_thước/N 41/SZ, giá/N 1800000/PR, lớp_lót/N Vải_dệt/LN và/N chất_liệu/N Nylon/MT."
-
-"có/V đôi_giày/N nào/N màu/N xanh_navy/CL, làm_từ/V Canvas/MT, kích_thước/N 42/SZ, với/V giá/N khoảng/N 2100000/PR và/N lớp_lót/N Nubuck/LN không/N?"
-
-"Bạn/P có/V giày/N khaki/CL, kích_thước/N 41/SZ, với/V lớp_lót/N Da_tổng_hợp/LN, chất_liệu/N Nylon/MT và/N giá/N dưới/N 1800000/PR không/N?"
-
-"Tôi/P đang/V tìm/V một đôi_giày/N màu/N cam/CL, lớp_lót/N Vải_dệt/LN, kích_thước/N 41/SZ, giá/N 2300000/PR và/N chất_liệu/N Microfiber/MT."
-
-"Bạn/P có/V giày/N màu/N đỏ/CL với/V kích_thước/N 42/SZ, làm_từ/V Polyester/MT, giá/N khoảng/N 2400000/PR và/N lớp_lót/N EVA/LN không/N?"
-
-"Tôi/P cần/V tìm/V giày/N màu/N bạc/CL, kích_thước/N 43/SZ, chất_liệu/N Organic_Cotton/MT, giá/N 2100000/PR và/N lớp_lót/N Cotton/LN."
-
-"có/V đôi_giày/N nào/N màu/N nâu/CL, kích_thước/N 46/SZ, lớp_lót/N Vải_dệt/LN, giá/N 2200000/PR và/N chất_liệu/N Microfiber/MT không/N?"
-
-"Tôi/P đang/V tìm_kiếm/V giày/N màu/N hồng/CL, dành_cho/V nữ/GD, kích_thước/N 39/SZ, chất_liệu/N Da_lộn/MT, và/N giá/N dưới/N 2000000/PR."
-
-"Liệu/N có/V đôi_giày/N nào/N màu/N xanh_lá_cây/CL, kích_thước/N 41/SZ, chất_liệu/N EVA/MT, giá/N 2200000/PR và/N lớp_lót/N Da_tổng_hợp/LN không/N?"
-
-"Bạn/P có/V giày/N màu/N xanh_navy/CL, kích_thước/N 42/SZ, với/V lớp_lót/N Nubuck/LN, chất_liệu/N Canvas/MT và/N giá/N khoảng/N 2100000/PR không/N?"
-
-"Tôi/P đang/V tìm/V giày/N màu/N vàng_kim/CL, kích_thước/N 44/SZ, làm_từ/V Da_tổng_hợp/MT, với/V lớp_lót/N Cotton/LN và/N giá/N dưới/N 2600000/PR."
-
-"Bạn/P có/V giày/N màu/N đỏ/CL, kích_thước/N 42/SZ, chất_liệu/N Nylon/MT, giá/N khoảng/N 2400000/PR và/N lớp_lót/N Vải_dệt/LN không/N?"
-
-"Tôi/P cần/V giày/N màu/N xanh_bạc_hà/CL, kích_thước/N 40/SZ, với/V lớp_lót/N Vải_dệt/LN, chất_liệu/N Canvas/MT và/N giá/N dưới/N 2200000/PR."
-
-"có/V đôi_giày/N nào/N màu/N tím/CL, kích_thước/N 43/SZ, chất_liệu/N Polyester/MT, với/V lớp_lót/N Da_tổng_hợp/LN và/N giá/N 2500000/PR không/N?"
-
-"Tôi/P muốn/V tìm/V một đôi_giày/N màu/N xanh_lá/CL, kích_thước/N 42/SZ, lớp_lót/N Da_tổng_hợp/LN, chất_liệu/N Canvas/MT và/N giá/N khoảng/N 2200000/PR."
-
-"có/V giày/N màu/N hồng/CL nào/N với/V lớp_lót/N Vải_dệt/LN, kích_thước/N 39/SZ, giá/N 2400000/PR và/N chất_liệu/N Nylon/MT không/N?"
-
-"Tôi/P đang/V tìm/V giày/N màu/N đỏ/CL, kích_thước/N 41/SZ, chất_liệu/N Polyester/MT, với/V giá/N khoảng/N 2000000/PR và/N lớp_lót/N Cotton/LN."
-
-"Bạn/P có/V giày/N màu/N vàng/CL, kích_thước/N 43/SZ, chất_liệu/N EVA/MT và/N lớp_lót/N Da_lộn/LN, giá/N khoảng/N 2300000/PR không/N?"
-
-"Tôi/P cần/V một đôi_giày/N màu/N tím/CL, kích_thước/N 40/SZ, lớp_lót/N Polyester/LN, giá/N dưới/N 1800000/PR và/N làm_từ/V Nylon/MT."
-
-"có/V đôi_giày/N nào/N màu/N trắng/CL, làm_từ/V Synthetic/MT, kích_thước/N 44/SZ, với/V giá/N khoảng/N 2500000/PR và/N lớp_lót/N Canvas/LN không/N?"
-
-"Bạn/P có/V giày/N màu/N đen/CL, kích_thước/N 45/SZ, với/V lớp_lót/N Nubuck/LN, chất_liệu/N Da_tổng_hợp/MT và/N giá/N 2600000/PR không/N?"
-
-"Tôi/P đang/V tìm_kiếm/V giày/N màu/N bạc/CL, kích_thước/N 39/SZ, chất_liệu/N Organic_Cotton/MT, lớp_lót/N Polyester/LN và/N giá/N khoảng/N 2100000/PR."
-
-"Bạn/P có/V đôi_giày/N màu/N xanh_dương/CL nào/N, kích_thước/N 46/SZ, với/V lớp_lót/N Vải_dệt/LN và/N giá/N khoảng/N 2000000/PR không/N?"
-
-"Tôi/P muốn/V mua/V giày/N màu/N be/CL, làm_từ/V Da_lộn/MT, kích_thước/N 42/SZ, với/V giá/N khoảng/N 2300000/PR và/N lớp_lót/N Cotton/LN."
-
-"có/V đôi_giày/N nào/N màu/N cam/CL, kích_thước/N 40/SZ, chất_liệu/N Microfiber/MT, giá/N 1800000/PR và/N lớp_lót/N Vải/LN không/N?"
-
-"Bạn/P có/V giày/N màu/N xanh_mint/CL, kích_thước/N 41/SZ, với/V lớp_lót/N Da_tổng_hợp/MT, chất_liệu/N Polyester/MT và/N giá/N dưới/N 2400000/PR không/N?"
-
-"Tôi/P cần/V tìm/V giày/N màu/N xanh_lá_cây/CL, kích_thước/N 44/SZ, chất_liệu/N EVA/MT và/N giá/N 2000000/PR, với/V lớp_lót/N Nubuck/LN."
-
-"Liệu/N có/V đôi_giày/N nào/N màu/N tím/CL, kích_thước/N 43/SZ, lớp_lót/N Da_lộn/LN, giá/N khoảng/N 2500000/PR và/N chất_liệu/N Nylon/MT không/N?"
-
-"Tôi/P đang/V tìm_kiếm/V giày/N màu/N đỏ/CL, kích_thước/N 39/SZ, với/V lớp_lót/N Polyester/LN và/N giá/N dưới/N 2300000/PR, chất_liệu/N Synthetic/MT."
-
-"Bạn/P có/V đôi_giày/N nào/N màu/N vàng/CL, kích_thước/N 42/SZ, lớp_lót/N Canvas/LN, làm_từ/V EVA/MT và/N giá/N dưới/N 2100000/PR không/N?"
-
-"Tôi/P cần/V một đôi_giày/N màu/N đen/CL, kích_thước/N 46/SZ, lớp_lót/N Cotton/LN, chất_liệu/N Recycled Polyester/MT và/N giá/N khoảng/N 2400000/PR."
-
-"có/V giày/N màu/N bạc/CL nào/N, kích_thước/N 45/SZ, chất_liệu/N Organic_Cotton/MT, với/V giá/N khoảng/N 2600000/PR và/N lớp_lót/N Vải/LN không/N?"
-
-"Tôi/P muốn/V mua/V giày/N màu/N xanh_dương/CL, kích_thước/N 44/SZ, với/V lớp_lót/N Canvas/LN, chất_liệu/N Nylon/MT và/N giá/N dưới/N 2000000/PR."
-
-"Bạn/P có/V giày/N màu/N xanh_navy/CL, kích_thước/N 41/SZ, lớp_lót/N Vải_dệt/LN, chất_liệu/N Canvas/MT và/N giá/N khoảng/N 2500000/PR không/N?"
-
-"Tôi/P cần/V tìm/V giày/N màu/N cam/CL, kích_thước/N 42/SZ, chất_liệu/N Nylon/MT, giá/N 2100000/PR và/N lớp_lót/N Polyester/LN."
-
-"Liệu/N có/V đôi_giày/N màu/N trắng/CL nào/N, kích_thước/N 39/SZ, với/V lớp_lót/N Cotton/LN và/N giá/N dưới/N 1900000/PR không/N?"
-
-"Bạn/P có/V giày/N màu/N tím/CL, kích_thước/N 43/SZ, với/V lớp_lót/N Da_lộn/LN, chất_liệu/N Canvas/MT và/N giá/N khoảng/N 2200000/PR không/N?"
-
-"Tôi/P muốn/V tìm/V giày/N màu/N hồng/CL, kích_thước/N 40/SZ, với/V lớp_lót/N Nubuck/LN và/N giá/N dưới/N 2100000/PR, chất_liệu/N Polyester/MT."
-
-"có/V đôi_giày/N nào/N màu/N xanh_mint/CL, kích_thước/N 46/SZ, làm_từ/V Vải_dệt/LN, giá/N khoảng/N 1800000/PR và/N lớp_lót/N Polyester/LN không/N?"
-
-"Bạn/P có/V giày/N màu/N bạc/CL, kích_thước/N 45/SZ, chất_liệu/N Nylon/MT, với/V giá/N dưới/N 2300000/PR và/N lớp_lót/N EVA/LN không/N?"
-
-"Tôi/P đang/V tìm_kiếm/V giày/N màu/N xanh_navy/CL, kích_thước/N 42/SZ, với/V lớp_lót/N Polyester/LN và/N giá/N khoảng/N 2200000/PR, chất_liệu/N Da_lộn/MT."
-
-"Bạn/P có/V giày/N màu/N vàng_kim/CL, kích_thước/N 44/SZ, làm_từ/V Da_tổng_hợp/MT, giá/N khoảng/N 2400000/PR và/N lớp_lót/N Cotton/LN không/N?"
-
-"Tôi/P muốn/V biết có/V giày/N màu/N xanh_bạc_hà/CL, kích_thước/N 39/SZ, chất_liệu/N Polyester/MT, với/V giá/N 2000000/PR không/N?"
-
-"Bạn/P có/V giày/N màu/N đỏ/CL, kích_thước/N 43/SZ, lớp_lót/N Cotton/LN, với/V giá/N khoảng/N 2300000/PR và/N làm_từ/V Nylon/MT không/N?"
-
-"Tôi/P đang/V tìm/V một đôi_giày/N màu/N xanh_dương/CL, kích_thước/N 41/SZ, chất_liệu/N EVA/MT, giá/N dưới/N 2500000/PR và/N lớp_lót/N Polyester/LN."
-
-"Bạn/P có/V giày/N màu/N khaki/CL, kích_thước/N 44/SZ, với/V lớp_lót/N Vải_dệt/LN, chất_liệu/N Canvas/MT và/N giá/N khoảng/N 2100000/PR không/N?"
-
-"Tôi/P cần/V tìm/V giày/N màu/N xanh_navy/CL, kích_thước/N 42/SZ, với/V lớp_lót/N Nubuck/LN, giá/N khoảng/N 2300000/PR và/N chất_liệu/N Nylon/MT."
-
-"Liệu/N có/V đôi_giày/N màu/N đen/CL nào/N, kích_thước/N 40/SZ, với/V lớp_lót/N Vải_dệt/LN và/N giá/N dưới/N 2000000/PR không/N?"
-
-"Bạn/P có/V giày/N màu/N bạc/CL, kích_thước/N 45/SZ, chất_liệu/N Organic_Cotton/MT, giá/N 2100000/PR và/N lớp_lót/N Polyester/LN không/N?"
-
-"Tôi/P đang/V tìm_kiếm/V giày/N màu/N vàng/CL, kích_thước/N 46/SZ, lớp_lót/N Da_lộn/LN, với/V giá/N khoảng/N 2400000/PR và/N làm_từ/V EVA/MT."
-
-"có/V đôi_giày/N nào/N màu/N xanh_lá/CL, kích_thước/N 42/SZ, lớp_lót/N Nubuck/LN và/N giá/N dưới/N 2500000/PR không/N?"
-
-"Tôi/P muốn/V biết có/V giày/N màu/N bạc/CL, kích_thước/N 40/SZ, chất_liệu/N Canvas/MT, với/V giá/N 200000/PR0 không/N?"
-
-"Bạn/P có/V giày/N màu/N hồng/CL, kích_thước/N 43/SZ, với/V lớp_lót/N Da_lộn/LN, giá/N dưới/N 2200000/PR và/N chất_liệu/N Nylon/MT không/N?"
-
-"Tôi/P đang/V tìm_kiếm/V giày/N màu/N trắng/CL, kích_thước/N 41/SZ, với/V lớp_lót/N Vải_dệt/LN và/N giá/N khoảng/N 2100000/PR, chất_liệu/N Polyester/MT."
-
-"Bạn/P có/V đôi_giày/N màu/N đỏ/CL nào/N, kích_thước/N 46/SZ, lớp_lót/N Cotton/LN, với/V giá/N khoảng/N 2300000/PR và/N làm_từ/V Da_lộn/MT không/N?"
-
-"Tôi/P muốn/V mua/V giày/N màu/N vàng_kim/CL, kích_thước/N 45/SZ, lớp_lót/N Canvas/LN và/N giá/N dưới/N 2600000/PR, chất_liệu/N Nylon/MT."
-
-"có/V đôi_giày/N nào/N màu/N xanh_navy/CL, kích_thước/N 39/SZ, làm_từ/V Polyester/MT, với/V giá/N 1800000/PR và/N lớp_lót/N Nubuck/LN không/N?"
-
-"Bạn/P có/V giày/N màu/N bạc/CL, kích_thước/N 43/SZ, chất_liệu/N Organic_Cotton/MT, lớp_lót/N Polyester/MT và/N giá/N khoảng/N 2400000/PR không/N?"
-
-"Tôi/P cần/V tìm/V giày/N màu/N xanh_lá_cây/CL, kích_thước/N 42/SZ, lớp_lót/N Vải_dệt/LN, với/V giá/N 2200000/PR và/N chất_liệu/N Canvas/MT."
-
-"Bạn/P có/V đôi_giày/N màu/N khaki/CL nào/N, kích_thước/N 40/SZ, làm_từ/V Nylon/MT và/N lớp_lót/N Vải/LN không/N?"
-
-"Tôi/P đang/V tìm_kiếm/V giày/N màu/N cam/CL, kích_thước/N 46/SZ, lớp_lót/N Cotton/LN, giá/N khoảng/N 2500000/PR và/N chất_liệu/N Microfiber/MT."
-
-"Bạn/P có/V giày/N màu/N đỏ/CL, kích_thước/N 41/SZ, với/V lớp_lót/N Polyester/MT, chất_liệu/N Synthetic/MT và/N giá/N khoảng/N 2300000/PR không/N?"
-
-"Liệu/N có/V đôi_giày/N màu/N xanh_dương/CL nào/N, kích_thước/N 43/SZ, với/V lớp_lót/N Vải_dệt/LN và/N giá/N 2000000/PR không/N?"
-
-"Tôi/P muốn/V biết có/V giày/N màu/N bạc/CL, kích_thước/N 42/SZ, chất_liệu/N Organic_Cotton/MT, lớp_lót/N Cotton/LN và/N giá/N 2100000/PR không/N?"
-
-"Tôi/P đang/V tìm/V một đôi_giày/N màu/N bạc/CL, kích_thước/N 44/SZ, lớp_lót/N Polyester/MT, chất_liệu/N Nylon/MT và/N giá/N khoảng/N 2500000/PR."
-
-"Bạn/P có/V đôi_giày/N màu/N xanh_navy/CL nào/N, kích_thước/N 42/SZ, chất_liệu/N Da_lộn/MT, lớp_lót/N Vải_dệt/LN và/N giá/N dưới/N 2300000/PR không/N?"
-
-"Tôi/P cần/V một đôi_giày/N màu/N đỏ/CL, kích_thước/N 41/SZ, với/V lớp_lót/N Nubuck/LN, chất_liệu/N Polyester/MT và/N giá/N khoảng/N 2100000/PR."
-
-"có/V đôi_giày/N nào/N màu/N vàng_kim/CL, kích_thước/N 43/SZ, lớp_lót/N Cotton/LN và/N giá/N khoảng/N 2400000/PR không/N?"
-
-"Tôi/P muốn/V tìm/V giày/N màu/N xanh_lá_cây/CL, kích_thước/N 45/SZ, chất_liệu/N Synthetic/MT, với/V giá/N dưới/N 2600000/PR và/N lớp_lót/N Vải_dệt/LN."
-
-"Bạn/P có/V giày/N màu/N hồng/CL, kích_thước/N 39/SZ, với/V lớp_lót/N Canvas/LN, giá/N dưới/N 2200000/PR và/N chất_liệu/N Nylon/MT không/N?"
-
-"Tôi/P đang/V tìm_kiếm/V giày/N màu/N cam/CL, kích_thước/N 46/SZ, lớp_lót/N Da_tổng_hợp/LN, chất_liệu/N EVA/MT và/N giá/N khoảng/N 2000000/PR."
-
-"Liệu/N có/V đôi_giày/N màu/N tím/CL nào/N, kích_thước/N 40/SZ, với/V lớp_lót/N Nubuck/LN, chất_liệu/N Polyester/MT và/N giá/N dưới/N 2100000/PR không/N?"
-
-"Bạn/P có/V giày/N màu/N trắng/CL, kích_thước/N 44/SZ, chất_liệu/N Nylon/MT, lớp_lót/N Da_lộn/LN và/N giá/N khoảng/N 2300000/PR không/N?"
-
-"Tôi/P cần/V một đôi_giày/N màu/N xanh_navy/CL, kích_thước/N 42/SZ, với/V lớp_lót/N Vải/LN, chất_liệu/N Organic_Cotton/MT và/N giá/N 2400000/PR."
-
-"có/V đôi_giày/N nào/N màu/N khaki/CL, kích_thước/N 41/SZ, lớp_lót/N Cotton/LN, chất_liệu/N Canvas/MT và/N giá/N khoảng/N 2500000/PR không/N?"
-
-"Bạn/P có/V giày/N màu/N xanh_bạc_hà/CL, kích_thước/N 46/SZ, chất_liệu/N Nylon/MT, với/V giá/N dưới/N 1800000/PR và/N lớp_lót/N Nubuck/LN không/N?"
-
-"Tôi/P muốn/V tìm/V giày/N màu/N đỏ/CL, kích_thước/N 39/SZ, với/V lớp_lót/N Polyester/LN, giá/N khoảng/N 2000000/PR và/N chất_liệu/N Da_tổng_hợp/MT."
-
-"Bạn/P có/V đôi_giày/N màu/N xanh_lá_cây/CL nào/N, kích_thước/N 42/SZ, lớp_lót/N Vải_lưới/LN, chất_liệu/N Nylon/MT và/N giá/N 2300000/PR không/N?"
-
-"Tôi/P đang/V tìm/V một đôi_giày/N màu/N vàng_kim/CL, kích_thước/N 44/SZ, chất_liệu/N Da_lộn/MT, lớp_lót/N Nubuck/LN/LN và/N giá/N khoảng/N 2400000/PR."
+Tôi/P cần/V đôi_giày/N màu/N xanh_dương/CL, lớp_lót/N Cotton/LN, kích_thước/N 39/SZ với/V giá/N 1900000/PR và/N chất_liệu/N Nylon/MT.
+Bạn/P có/V giày/N màu/N xanh_lá_cây/CL, kích_thước/N 41/SZ, giá/N dưới/N 2100000/PR, lớp_lót/N Da_tổng_hợp/LN và/N chất_liệu/N EVA/MT không/N?
+Tôi/P muốn/V mua/V giày/N đỏ/CL, lớp_lót/N Vải_dệt/LN, dành_cho/V nam/GD, kích_thước/N 42/SZ, chất_liệu/N Nylon/MT và/N giá/N khoảng/N 2400000/PR.
+Có/V đôi_giày/N nào/N màu/N tím_nhạt/CL, chất_liệu/N Polyester/MT, với/V lớp_lót/N Da_tổng_hợp/LN, kích_thước/N 40/SZ, và/N giá/N 1900000/PR không/N?
+Tôi/P đang/V tìm_kiếm/V giày/N màu/N nâu/CL, kích_thước/N 46/SZ, lớp_lót/N Vải_dệt/LN, dành_cho/V nữ/GD, với/V chất_liệu/N Microfiber/MT và/N giá/N dưới/N 2300000/PR.
+Bạn/P có/V giày/N khaki/CL với/V lớp_lót/N Da_tổng_hợp/LN, kích_thước/N 41/SZ, làm_từ/V Nylon/MT, giá/N 1800000/PR không/N?
+Tôi/P muốn/V biết/V liệu/N có/V giày/N màu/N xanh_bạc_hà/CL, kích_thước/N 40/SZ, lớp_lót/N Canvas/LN, với/V giá/N 2100000/PR không/N?
+có/V đôi_giày/N nào/N màu/N xám/CL, kích_thước/N 42/SZ, với/V lớp_lót/N EVA/LN, chất_liệu/N Microfiber/MT và/N giá/N 2300000/PR không/N?
+Tôi/P đang/V tìm/V giày/N cam/CL, chất_liệu/N Microfiber/MT, kích_thước/N 41/SZ, với/V giá/N khoảng/N 2400000/PR và/N lớp_lót/N Vải_dệt/LN.
+Bạn/P có/V giày/N màu/N be/CL, kích_thước/N 40/SZ, chất_liệu/N Canvas/MT, với/V giá/N 2200000/PR và/N lớp_lót/N EVA/LN không/N?
+Tôi/P muốn/V mua/V giày/N màu/N vàng_kim/CL, kích_thước/N 44/SZ, chất_liệu/N Da_tổng_hợp/MT, lớp_lót/N Cotton/LN và/N giá/N dưới/N 2600000/PR.
+Tôi/P cần/V giày/N màu/N xanh_dương/CL, kích_thước/N 39/SZ, với/V giá/N 1900000/PR, chất_liệu/N Nylon/MT và/N lớp_lót/N Cotton/LN.
+Liệu/N Bạn/P có/V giày/N màu/N đỏ/CL, làm_từ/V Nylon/MT, kích_thước/N 42/SZ, giá/N dưới/N 2400000/PR và/N lớp_lót/N Vải_dệt/LN không/N?
+Tôi/P muốn/V tìm/V giày/N màu/N xanh_hải_quân/CL, chất_liệu/N Nylon/MT, kích_thước/N 42/SZ, với/V giá/N 2000000/PR và/N lớp_lót/N Nubuck/LN.
+Tôi/P đang/V tìm_kiếm/V giày/N màu/N đồng/CL, kích_thước/N 44/SZ, lớp_lót/N Cotton/LN, với/V chất_liệu/N OrthoLite/MT và/N giá/N khoảng/N 2100000/PR.
+Bạn/P có/V giày/N khaki/CL với/V lớp_lót/N Da_tổng_hợp/LN, chất_liệu/N Nylon/MT, kích_thước/N 41/SZ và/N giá/N dưới/N 1800000/PR không/N?
+Tôi/P muốn/V mua/V đôi_giày/N màu/N bạc/CL, kích_thước/N 43/SZ, chất_liệu/N Organic_Cotton/MT, dành_cho/V nữ/GD, với/V giá/N 2300000/PR.
+có/V giày/N màu/N tím_nhạt/CL, làm_từ/V Polyester/MT, kích_thước/N 40/SZ, lớp_lót/N Da_tổng_hợp/LN và/N giá/N 1900000/PR không/N?
+Tôi/P đang/V tìm/V giày/N màu/N đỏ/CL, chất_liệu/N Nylon/MT, lớp_lót/N Vải_dệt/LN, với/V giá/N khoảng/N 2400000/PR, kích_thước/N 42/SZ.
+Bạn/P có/V giày/N màu/N xanh_dương/CL, lớp_lót/N EVA/LN, chất_liệu/N Canvas/MT, kích_thước/N 39/SZ và/N giá/N dưới/N 2000000/PR không/N?
+Tôi/P muốn/V tìm/V giày/N màu/N vàng/CL, kích_thước/N 40/SZ, lớp_lót/N Vải/LN, với/V giá/N 1900000/PR và/N chất_liệu/N Polyester/MT.
+có/V giày/N màu/N xám/CL nào/N, chất_liệu/N Microfiber/MT, kích_thước/N 42/SZ, với/V lớp_lót/N EVA/LN và/N giá/N dưới/N 2300000/PR không/N?
+Tôi/P cần/V một đôi_giày/N màu/N cam/CL, kích_thước/N 41/SZ, với/V lớp_lót/N Vải_dệt/LN, giá/N 2400000/PR và/N chất_liệu/N Microfiber/MT.
+Bạn/P có/V giày/N màu/N trắng/CL, lớp_lót/N Cotton/LN, kích_thước/N 44/SZ, với/V chất_liệu/N Nylon/MT và/N giá/N dưới/N 2300000/PR không/N?
+Tôi/P muốn/V tìm/V giày/N màu/N đen/CL, kích_thước/N 43/SZ, lớp_lót/N Cotton/LN, với/V giá/N khoảng/N 2400000/PR và/N chất_liệu/N Synthetic/MT.
+Liệu/N có/V giày/N nào/N màu/N xanh_lá_cây/CL, kích_thước/N 41/SZ, với/V chất_liệu/N EVA/MT và/N lớp_lót/N Da_tổng_hợp/LN không/N?
+Tôi/P đang/V tìm/V giày/N màu/N vàng_kim/CL, lớp_lót/N Cotton/LN, kích_thước/N 44/SZ, chất_liệu/N Da_tổng_hợp/MT và/N giá/N khoảng/N 2600000/PR.
+Bạn/P có/V giày/N màu/N bạc/CL, chất_liệu/N Organic_Cotton/MT, kích_thước/N 43/SZ, dành_cho/V nữ/GD, và/N giá/N 2300000/PR không/N?
+Tôi/P muốn/V biết liệu có/V giày/N màu/N cyan/CL, kích_thước/N 45/SZ, với/V chất_liệu/N Vải/MT và/N giá/N 2100000/PR không/N?
+Tôi/P đang/V tìm/V giày/N màu/N be/CL, lớp_lót/N EVA/LN, kích_thước/N 40/SZ, với/V chất_liệu/N Canvas/MT và/N giá/N dưới/N 2200000/PR.
+có/V đôi_giày/N nào/N màu/N xanh_navy/CL, kích_thước/N 42/SZ, lớp_lót/N Nubuck/LN, chất_liệu/N Canvas/MT và/N giá/N khoảng/N 2100000/PR không/N?
+Tôi/P muốn/V biết có/V giày/N khaki/CL kích_thước/N 41/SZ, giá/N 1800000/PR, làm_từ/V Nylon/MT và/N lớp_lót/N Da_tổng_hợp/LN không/N?
+Bạn/P có/V bán giày/N màu/N đỏ/CL, kích_thước/N 42/SZ, với/V giá/N 2400000/PR, chất_liệu/N Polyester/MT và/N lớp_lót/N EVA/LN không/N?
+có/V đôi_giày/N nào/N màu/N hồng/CL, làm_từ/V Da_lộn/MT, kích_thước/N 39/SZ, dành_cho/V nữ/GD, với/V giá/N dưới/N 2000000/PR không/N?
+Tôi/P đang/V tìm/V một đôi_giày/N màu/N nâu/CL, lớp_lót/N Vải_dệt/LN, kích_thước/N 46/SZ, giá/N 2200000/PR và/N chất_liệu/N Microfiber/MT.
+Liệu/N có/V giày/N xanh_dương/CL nào/N với/V chất_liệu/N Canvas/MT, kích_thước/N 39/SZ, giá/N 1800000/PR và/N lớp_lót/N EVA/LN không/N?
+Bạn/P có/V giày/N xanh_lá_cây/CL, dành_cho/V nam/GD, kích_thước/N 41/SZ, với/V lớp_lót/N Cotton/LN và/N giá/N dưới/N 2100000/PR không/N?
+Tôi/P muốn/V mua/V giày/N màu/N trắng/CL, lớp_lót/N Polyester/LN, kích_thước/N 44/SZ, chất_liệu/N Nylon/MT và/N giá/N 2300000/PR.
+có/V đôi_giày/N nào/N màu/N tím/CL, kích_thước/N 40/SZ, lớp_lót/N Da_tổng_hợp/LN, làm_từ/V EVA/MT và/N giá/N khoảng/N 2500000/PR không/N?
+Tôi/P đang/V tìm/V giày/N màu/N bạc/CL, kích_thước/N 43/SZ, lớp_lót/N Vải/LN, với/V giá/N 2200000/PR và/N chất_liệu/N Organic_Cotton/MT.
+Bạn/P có/V giày/N màu/N be/CL, kích_thước/N 40/SZ, lớp_lót/N Canvas/LN, làm_từ/V Nylon/MT và/N giá/N dưới/N 1900000/PR không/N?
+Tôi/P cần/V một đôi_giày/N màu/N đỏ/CL, dành_cho/V nữ/GD, kích_thước/N 42/SZ, chất_liệu/N Polyester/MT, giá/N 2500000/PR và/N lớp_lót/N EVA/LN.
+có/V giày/N nào/N màu/N xanh_lá_cây/CL, kích_thước/N 41/SZ, với/V chất_liệu/N EVA/MT, giá/N 2200000/PR và/N lớp_lót/N Da_tổng_hợp/LN không/N?
+Bạn/P có/V giày/N màu/N xanh_bạc_hà/CL, làm_từ/V Canvas/MT, kích_thước/N 40/SZ, với/V lớp_lót/N Vải/LN và/N giá/N dưới/N 2300000/PR không/N?
+Tôi/P đang/V tìm/V một đôi_giày/N màu/N xanh_dương/CL, lớp_lót/N Cotton/LN, kích_thước/N 39/SZ, chất_liệu/N Nylon/MT và/N giá/N khoảng/N 1900000/PR.
+Bạn/P có/V giày/N màu/N vàng_kim/CL, kích_thước/N 44/SZ, với/V lớp_lót/N Cotton/LN, chất_liệu/N Da_tổng_hợp/MT và/N giá/N 2600000/PR không/N?
+Tôi/P cần/V mua/V giày/N màu/N khaki/CL, kích_thước/N 41/SZ, giá/N 1800000/PR, lớp_lót/N Vải_dệt/LN và/N chất_liệu/N Nylon/MT.
+có/V đôi_giày/N nào/N màu/N xanh_navy/CL, làm_từ/V Canvas/MT, kích_thước/N 42/SZ, với/V giá/N khoảng/N 2100000/PR và/N lớp_lót/N Nubuck/LN không/N?
+Bạn/P có/V giày/N khaki/CL, kích_thước/N 41/SZ, với/V lớp_lót/N Da_tổng_hợp/LN, chất_liệu/N Nylon/MT và/N giá/N dưới/N 1800000/PR không/N?
+Tôi/P đang/V tìm/V một đôi_giày/N màu/N cam/CL, lớp_lót/N Vải_dệt/LN, kích_thước/N 41/SZ, giá/N 2300000/PR và/N chất_liệu/N Microfiber/MT.
+Bạn/P có/V giày/N màu/N đỏ/CL với/V kích_thước/N 42/SZ, làm_từ/V Polyester/MT, giá/N khoảng/N 2400000/PR và/N lớp_lót/N EVA/LN không/N?
+Tôi/P cần/V tìm/V giày/N màu/N bạc/CL, kích_thước/N 43/SZ, chất_liệu/N Organic_Cotton/MT, giá/N 2100000/PR và/N lớp_lót/N Cotton/LN.
+có/V đôi_giày/N nào/N màu/N nâu/CL, kích_thước/N 46/SZ, lớp_lót/N Vải_dệt/LN, giá/N 2200000/PR và/N chất_liệu/N Microfiber/MT không/N?
+Tôi/P đang/V tìm_kiếm/V giày/N màu/N hồng/CL, dành_cho/V nữ/GD, kích_thước/N 39/SZ, chất_liệu/N Da_lộn/MT, và/N giá/N dưới/N 2000000/PR.
+Liệu/N có/V đôi_giày/N nào/N màu/N xanh_lá_cây/CL, kích_thước/N 41/SZ, chất_liệu/N EVA/MT, giá/N 2200000/PR và/N lớp_lót/N Da_tổng_hợp/LN không/N?
+Bạn/P có/V giày/N màu/N xanh_navy/CL, kích_thước/N 42/SZ, với/V lớp_lót/N Nubuck/LN, chất_liệu/N Canvas/MT và/N giá/N khoảng/N 2100000/PR không/N?
+Tôi/P đang/V tìm/V giày/N màu/N vàng_kim/CL, kích_thước/N 44/SZ, làm_từ/V Da_tổng_hợp/MT, với/V lớp_lót/N Cotton/LN và/N giá/N dưới/N 2600000/PR.
+Bạn/P có/V giày/N màu/N đỏ/CL, kích_thước/N 42/SZ, chất_liệu/N Nylon/MT, giá/N khoảng/N 2400000/PR và/N lớp_lót/N Vải_dệt/LN không/N?
+Tôi/P cần/V giày/N màu/N xanh_bạc_hà/CL, kích_thước/N 40/SZ, với/V lớp_lót/N Vải_dệt/LN, chất_liệu/N Canvas/MT và/N giá/N dưới/N 2200000/PR.
+có/V đôi_giày/N nào/N màu/N tím/CL, kích_thước/N 43/SZ, chất_liệu/N Polyester/MT, với/V lớp_lót/N Da_tổng_hợp/LN và/N giá/N 2500000/PR không/N?
+Tôi/P muốn/V tìm/V một đôi_giày/N màu/N xanh_lá/CL, kích_thước/N 42/SZ, lớp_lót/N Da_tổng_hợp/LN, chất_liệu/N Canvas/MT và/N giá/N khoảng/N 2200000/PR.
+có/V giày/N màu/N hồng/CL nào/N với/V lớp_lót/N Vải_dệt/LN, kích_thước/N 39/SZ, giá/N 2400000/PR và/N chất_liệu/N Nylon/MT không/N?
+Tôi/P đang/V tìm/V giày/N màu/N đỏ/CL, kích_thước/N 41/SZ, chất_liệu/N Polyester/MT, với/V giá/N khoảng/N 2000000/PR và/N lớp_lót/N Cotton/LN.
+Bạn/P có/V giày/N màu/N vàng/CL, kích_thước/N 43/SZ, chất_liệu/N EVA/MT và/N lớp_lót/N Da_lộn/LN, giá/N khoảng/N 2300000/PR không/N?
+Tôi/P cần/V một đôi_giày/N màu/N tím/CL, kích_thước/N 40/SZ, lớp_lót/N Polyester/LN, giá/N dưới/N 1800000/PR và/N làm_từ/V Nylon/MT.
+có/V đôi_giày/N nào/N màu/N trắng/CL, làm_từ/V Synthetic/MT, kích_thước/N 44/SZ, với/V giá/N khoảng/N 2500000/PR và/N lớp_lót/N Canvas/LN không/N?
+Bạn/P có/V giày/N màu/N đen/CL, kích_thước/N 45/SZ, với/V lớp_lót/N Nubuck/LN, chất_liệu/N Da_tổng_hợp/MT và/N giá/N 2600000/PR không/N?
+Tôi/P đang/V tìm_kiếm/V giày/N màu/N bạc/CL, kích_thước/N 39/SZ, chất_liệu/N Organic_Cotton/MT, lớp_lót/N Polyester/LN và/N giá/N khoảng/N 2100000/PR.
+Bạn/P có/V đôi_giày/N màu/N xanh_dương/CL nào/N, kích_thước/N 46/SZ, với/V lớp_lót/N Vải_dệt/LN và/N giá/N khoảng/N 2000000/PR không/N?
+Tôi/P muốn/V mua/V giày/N màu/N be/CL, làm_từ/V Da_lộn/MT, kích_thước/N 42/SZ, với/V giá/N khoảng/N 2300000/PR và/N lớp_lót/N Cotton/LN.
+có/V đôi_giày/N nào/N màu/N cam/CL, kích_thước/N 40/SZ, chất_liệu/N Microfiber/MT, giá/N 1800000/PR và/N lớp_lót/N Vải/LN không/N?
+Bạn/P có/V giày/N màu/N xanh_mint/CL, kích_thước/N 41/SZ, với/V lớp_lót/N Da_tổng_hợp/MT, chất_liệu/N Polyester/MT và/N giá/N dưới/N 2400000/PR không/N?
+Tôi/P cần/V tìm/V giày/N màu/N xanh_lá_cây/CL, kích_thước/N 44/SZ, chất_liệu/N EVA/MT và/N giá/N 2000000/PR, với/V lớp_lót/N Nubuck/LN.
+Liệu/N có/V đôi_giày/N nào/N màu/N tím/CL, kích_thước/N 43/SZ, lớp_lót/N Da_lộn/LN, giá/N khoảng/N 2500000/PR và/N chất_liệu/N Nylon/MT không/N?
+Tôi/P đang/V tìm_kiếm/V giày/N màu/N đỏ/CL, kích_thước/N 39/SZ, với/V lớp_lót/N Polyester/LN và/N giá/N dưới/N 2300000/PR, chất_liệu/N Synthetic/MT.
+Bạn/P có/V đôi_giày/N nào/N màu/N vàng/CL, kích_thước/N 42/SZ, lớp_lót/N Canvas/LN, làm_từ/V EVA/MT và/N giá/N dưới/N 2100000/PR không/N?
+Tôi/P cần/V một đôi_giày/N màu/N đen/CL, kích_thước/N 46/SZ, lớp_lót/N Cotton/LN, chất_liệu/N Recycled Polyester/MT và/N giá/N khoảng/N 2400000/PR.
+có/V giày/N màu/N bạc/CL nào/N, kích_thước/N 45/SZ, chất_liệu/N Organic_Cotton/MT, với/V giá/N khoảng/N 2600000/PR và/N lớp_lót/N Vải/LN không/N?
+Tôi/P muốn/V mua/V giày/N màu/N xanh_dương/CL, kích_thước/N 44/SZ, với/V lớp_lót/N Canvas/LN, chất_liệu/N Nylon/MT và/N giá/N dưới/N 2000000/PR.
+Bạn/P có/V giày/N màu/N xanh_navy/CL, kích_thước/N 41/SZ, lớp_lót/N Vải_dệt/LN, chất_liệu/N Canvas/MT và/N giá/N khoảng/N 2500000/PR không/N?
+Tôi/P cần/V tìm/V giày/N màu/N cam/CL, kích_thước/N 42/SZ, chất_liệu/N Nylon/MT, giá/N 2100000/PR và/N lớp_lót/N Polyester/LN.
+Liệu/N có/V đôi_giày/N màu/N trắng/CL nào/N, kích_thước/N 39/SZ, với/V lớp_lót/N Cotton/LN và/N giá/N dưới/N 1900000/PR không/N?
+Bạn/P có/V giày/N màu/N tím/CL, kích_thước/N 43/SZ, với/V lớp_lót/N Da_lộn/LN, chất_liệu/N Canvas/MT và/N giá/N khoảng/N 2200000/PR không/N?
+Tôi/P muốn/V tìm/V giày/N màu/N hồng/CL, kích_thước/N 40/SZ, với/V lớp_lót/N Nubuck/LN và/N giá/N dưới/N 2100000/PR, chất_liệu/N Polyester/MT.
+có/V đôi_giày/N nào/N màu/N xanh_mint/CL, kích_thước/N 46/SZ, làm_từ/V Vải_dệt/LN, giá/N khoảng/N 1800000/PR và/N lớp_lót/N Polyester/LN không/N?
+Bạn/P có/V giày/N màu/N bạc/CL, kích_thước/N 45/SZ, chất_liệu/N Nylon/MT, với/V giá/N dưới/N 2300000/PR và/N lớp_lót/N EVA/LN không/N?
+Tôi/P đang/V tìm_kiếm/V giày/N màu/N xanh_navy/CL, kích_thước/N 42/SZ, với/V lớp_lót/N Polyester/LN và/N giá/N khoảng/N 2200000/PR, chất_liệu/N Da_lộn/MT.
+Bạn/P có/V giày/N màu/N vàng_kim/CL, kích_thước/N 44/SZ, làm_từ/V Da_tổng_hợp/MT, giá/N khoảng/N 2400000/PR và/N lớp_lót/N Cotton/LN không/N?
+Tôi/P muốn/V biết có/V giày/N màu/N xanh_bạc_hà/CL, kích_thước/N 39/SZ, chất_liệu/N Polyester/MT, với/V giá/N 2000000/PR không/N?
+Bạn/P có/V giày/N màu/N đỏ/CL, kích_thước/N 43/SZ, lớp_lót/N Cotton/LN, với/V giá/N khoảng/N 2300000/PR và/N làm_từ/V Nylon/MT không/N?
+Tôi/P đang/V tìm/V một đôi_giày/N màu/N xanh_dương/CL, kích_thước/N 41/SZ, chất_liệu/N EVA/MT, giá/N dưới/N 2500000/PR và/N lớp_lót/N Polyester/LN.
+Bạn/P có/V giày/N màu/N khaki/CL, kích_thước/N 44/SZ, với/V lớp_lót/N Vải_dệt/LN, chất_liệu/N Canvas/MT và/N giá/N khoảng/N 2100000/PR không/N?
+Tôi/P cần/V tìm/V giày/N màu/N xanh_navy/CL, kích_thước/N 42/SZ, với/V lớp_lót/N Nubuck/LN, giá/N khoảng/N 2300000/PR và/N chất_liệu/N Nylon/MT.
+Liệu/N có/V đôi_giày/N màu/N đen/CL nào/N, kích_thước/N 40/SZ, với/V lớp_lót/N Vải_dệt/LN và/N giá/N dưới/N 2000000/PR không/N?
+Bạn/P có/V giày/N màu/N bạc/CL, kích_thước/N 45/SZ, chất_liệu/N Organic_Cotton/MT, giá/N 2100000/PR và/N lớp_lót/N Polyester/LN không/N?
+Tôi/P đang/V tìm_kiếm/V giày/N màu/N vàng/CL, kích_thước/N 46/SZ, lớp_lót/N Da_lộn/LN, với/V giá/N khoảng/N 2400000/PR và/N làm_từ/V EVA/MT.
+có/V đôi_giày/N nào/N màu/N xanh_lá/CL, kích_thước/N 42/SZ, lớp_lót/N Nubuck/LN và/N giá/N dưới/N 2500000/PR không/N?
+Tôi/P muốn/V biết có/V giày/N màu/N bạc/CL, kích_thước/N 40/SZ, chất_liệu/N Canvas/MT, với/V giá/N 200000/PR0 không/N?
+Bạn/P có/V giày/N màu/N hồng/CL, kích_thước/N 43/SZ, với/V lớp_lót/N Da_lộn/LN, giá/N dưới/N 2200000/PR và/N chất_liệu/N Nylon/MT không/N?
+Tôi/P đang/V tìm_kiếm/V giày/N màu/N trắng/CL, kích_thước/N 41/SZ, với/V lớp_lót/N Vải_dệt/LN và/N giá/N khoảng/N 2100000/PR, chất_liệu/N Polyester/MT.
+Bạn/P có/V đôi_giày/N màu/N đỏ/CL nào/N, kích_thước/N 46/SZ, lớp_lót/N Cotton/LN, với/V giá/N khoảng/N 2300000/PR và/N làm_từ/V Da_lộn/MT không/N?
+Tôi/P muốn/V mua/V giày/N màu/N vàng_kim/CL, kích_thước/N 45/SZ, lớp_lót/N Canvas/LN và/N giá/N dưới/N 2600000/PR, chất_liệu/N Nylon/MT.
+có/V đôi_giày/N nào/N màu/N xanh_navy/CL, kích_thước/N 39/SZ, làm_từ/V Polyester/MT, với/V giá/N 1800000/PR và/N lớp_lót/N Nubuck/LN không/N?
+Bạn/P có/V giày/N màu/N bạc/CL, kích_thước/N 43/SZ, chất_liệu/N Organic_Cotton/MT, lớp_lót/N Polyester/MT và/N giá/N khoảng/N 2400000/PR không/N?
+Tôi/P cần/V tìm/V giày/N màu/N xanh_lá_cây/CL, kích_thước/N 42/SZ, lớp_lót/N Vải_dệt/LN, với/V giá/N 2200000/PR và/N chất_liệu/N Canvas/MT.
+Bạn/P có/V đôi_giày/N màu/N khaki/CL nào/N, kích_thước/N 40/SZ, làm_từ/V Nylon/MT và/N lớp_lót/N Vải/LN không/N?
+Tôi/P đang/V tìm_kiếm/V giày/N màu/N cam/CL, kích_thước/N 46/SZ, lớp_lót/N Cotton/LN, giá/N khoảng/N 2500000/PR và/N chất_liệu/N Microfiber/MT.
+Bạn/P có/V giày/N màu/N đỏ/CL, kích_thước/N 41/SZ, với/V lớp_lót/N Polyester/MT, chất_liệu/N Synthetic/MT và/N giá/N khoảng/N 2300000/PR không/N?
+Liệu/N có/V đôi_giày/N màu/N xanh_dương/CL nào/N, kích_thước/N 43/SZ, với/V lớp_lót/N Vải_dệt/LN và/N giá/N 2000000/PR không/N?
+Tôi/P muốn/V biết có/V giày/N màu/N bạc/CL, kích_thước/N 42/SZ, chất_liệu/N Organic_Cotton/MT, lớp_lót/N Cotton/LN và/N giá/N 2100000/PR không/N?
+Tôi/P đang/V tìm/V một đôi_giày/N màu/N bạc/CL, kích_thước/N 44/SZ, lớp_lót/N Polyester/MT, chất_liệu/N Nylon/MT và/N giá/N khoảng/N 2500000/PR.
+Bạn/P có/V đôi_giày/N màu/N xanh_navy/CL nào/N, kích_thước/N 42/SZ, chất_liệu/N Da_lộn/MT, lớp_lót/N Vải_dệt/LN và/N giá/N dưới/N 2300000/PR không/N?
+Tôi/P cần/V một đôi_giày/N màu/N đỏ/CL, kích_thước/N 41/SZ, với/V lớp_lót/N Nubuck/LN, chất_liệu/N Polyester/MT và/N giá/N khoảng/N 2100000/PR.
+có/V đôi_giày/N nào/N màu/N vàng_kim/CL, kích_thước/N 43/SZ, lớp_lót/N Cotton/LN và/N giá/N khoảng/N 2400000/PR không/N?
+Tôi/P muốn/V tìm/V giày/N màu/N xanh_lá_cây/CL, kích_thước/N 45/SZ, chất_liệu/N Synthetic/MT, với/V giá/N dưới/N 2600000/PR và/N lớp_lót/N Vải_dệt/LN.
+Bạn/P có/V giày/N màu/N hồng/CL, kích_thước/N 39/SZ, với/V lớp_lót/N Canvas/LN, giá/N dưới/N 2200000/PR và/N chất_liệu/N Nylon/MT không/N?
+Tôi/P đang/V tìm_kiếm/V giày/N màu/N cam/CL, kích_thước/N 46/SZ, lớp_lót/N Da_tổng_hợp/LN, chất_liệu/N EVA/MT và/N giá/N khoảng/N 2000000/PR.
+Liệu/N có/V đôi_giày/N màu/N tím/CL nào/N, kích_thước/N 40/SZ, với/V lớp_lót/N Nubuck/LN, chất_liệu/N Polyester/MT và/N giá/N dưới/N 2100000/PR không/N?
+Bạn/P có/V giày/N màu/N trắng/CL, kích_thước/N 44/SZ, chất_liệu/N Nylon/MT, lớp_lót/N Da_lộn/LN và/N giá/N khoảng/N 2300000/PR không/N?
+Tôi/P cần/V một đôi_giày/N màu/N xanh_navy/CL, kích_thước/N 42/SZ, với/V lớp_lót/N Vải/LN, chất_liệu/N Organic_Cotton/MT và/N giá/N 2400000/PR.
+có/V đôi_giày/N nào/N màu/N khaki/CL, kích_thước/N 41/SZ, lớp_lót/N Cotton/LN, chất_liệu/N Canvas/MT và/N giá/N khoảng/N 2500000/PR không/N?
+Bạn/P có/V giày/N màu/N xanh_bạc_hà/CL, kích_thước/N 46/SZ, chất_liệu/N Nylon/MT, với/V giá/N dưới/N 1800000/PR và/N lớp_lót/N Nubuck/LN không/N?
+Tôi/P muốn/V tìm/V giày/N màu/N đỏ/CL, kích_thước/N 39/SZ, với/V lớp_lót/N Polyester/LN, giá/N khoảng/N 2000000/PR và/N chất_liệu/N Da_tổng_hợp/MT.
+Bạn/P có/V đôi_giày/N màu/N xanh_lá_cây/CL nào/N, kích_thước/N 42/SZ, lớp_lót/N Vải_lưới/LN, chất_liệu/N Nylon/MT và/N giá/N 2300000/PR không/N?
+Tôi/P đang/V tìm/V một đôi_giày/N màu/N vàng_kim/CL, kích_thước/N 44/SZ, chất_liệu/N Da_lộn/MT, lớp_lót/N Nubuck/LN/LN và/N giá/N khoảng/N 2400000/PR.
