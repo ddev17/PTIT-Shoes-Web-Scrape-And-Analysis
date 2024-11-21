@@ -4,3 +4,5 @@
 core/pos_tag/tmp/ws_20220224/
 
 venv/
+
+web_ui/__pycache__/
